@@ -9,7 +9,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -22,7 +22,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -35,7 +35,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -48,7 +48,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -61,7 +61,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -74,7 +74,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -87,7 +87,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -100,7 +100,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -113,7 +113,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -126,7 +126,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -139,7 +139,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -152,7 +152,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -165,7 +165,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "5",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -178,7 +178,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "5",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -191,7 +191,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "5",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -204,7 +204,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -217,7 +217,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -230,7 +230,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -243,7 +243,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "7",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -256,7 +256,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "7",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -269,7 +269,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "7",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -282,7 +282,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "8",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -295,7 +295,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "8",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -308,7 +308,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "8",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -321,7 +321,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "9",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -334,7 +334,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "9",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -347,7 +347,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "9",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -360,7 +360,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "10",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -373,7 +373,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "10",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -386,7 +386,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "10",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -399,7 +399,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "11",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -412,7 +412,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "11",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -425,7 +425,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "11",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -438,7 +438,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "12",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -451,7 +451,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "12",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -464,7 +464,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "12",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -477,7 +477,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "13",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -490,7 +490,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "13",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -503,7 +503,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "13",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -516,7 +516,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "14",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -529,7 +529,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "14",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -542,7 +542,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "14",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -555,7 +555,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "15",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -568,7 +568,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "15",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -581,7 +581,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "15",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -594,7 +594,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "16",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -607,7 +607,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "16",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -620,7 +620,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "16",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -633,7 +633,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "17",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -646,7 +646,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "17",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -659,7 +659,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "17",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -672,7 +672,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "18",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -685,7 +685,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "18",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -698,7 +698,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "18",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -711,7 +711,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "19",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -724,7 +724,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "19",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -737,7 +737,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "19",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -750,7 +750,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "20",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -763,7 +763,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "20",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -776,7 +776,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "20",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -789,7 +789,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "21",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -802,7 +802,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "21",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -815,7 +815,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "21",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -828,7 +828,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "22",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -841,7 +841,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "22",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -854,7 +854,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "22",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -867,7 +867,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "23",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -880,7 +880,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "23",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -893,7 +893,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "23",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -906,7 +906,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "24",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -919,7 +919,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "24",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -932,7 +932,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "24",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -945,7 +945,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "25",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -958,7 +958,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "25",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -971,7 +971,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "25",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -984,7 +984,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "26",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -997,7 +997,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "26",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1010,7 +1010,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "26",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1023,7 +1023,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "27",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1036,7 +1036,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "27",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1049,7 +1049,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "27",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1062,7 +1062,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "28",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1075,7 +1075,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "28",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1088,7 +1088,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "28",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1101,7 +1101,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "29",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1114,7 +1114,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "29",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1127,7 +1127,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "29",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1140,7 +1140,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "30",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1153,7 +1153,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "30",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1166,7 +1166,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "30",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1179,7 +1179,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "31",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1192,7 +1192,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "31",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1205,7 +1205,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "31",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1218,7 +1218,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "32",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1231,7 +1231,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "32",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1244,7 +1244,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "32",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1257,7 +1257,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "33",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1270,7 +1270,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "33",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1283,7 +1283,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "33",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1296,7 +1296,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "34",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1309,7 +1309,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "34",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -1322,7 +1322,7 @@
     "season": "ot",
     "weekdayType": "sunday",
     "weekOrder": "34",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   }
 ]

@@ -9,7 +9,7 @@
     "season": "christmas",
     "weekdayType": "sunday",
     "weekOrder": "nativityOfTheLord",
-    "periodOfDay": "virgilMass",
+    "periodOfDay": "vigilMass",
     "description": ""
   },
   {
@@ -61,7 +61,7 @@
     "season": "christmas",
     "weekdayType": "sunday",
     "weekOrder": "theHolyFamily",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -74,7 +74,7 @@
     "season": "christmas",
     "weekdayType": "sunday",
     "weekOrder": "theHolyFamily",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -87,7 +87,7 @@
     "season": "christmas",
     "weekdayType": "sunday",
     "weekOrder": "theHolyFamily",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -100,7 +100,7 @@
     "season": "christmas",
     "weekdayType": "sunday",
     "weekOrder": "maryMotherOfGod",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -113,7 +113,7 @@
     "season": "christmas",
     "weekdayType": "sunday",
     "weekOrder": "2ndAfterChristmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -126,7 +126,7 @@
     "season": "christmas",
     "weekdayType": "sunday",
     "weekOrder": "theEpiphanyOfTheLord",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -139,7 +139,7 @@
     "season": "christmas",
     "weekdayType": "sunday",
     "weekOrder": "baptismOfTheLord",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -152,7 +152,7 @@
     "season": "christmas",
     "weekdayType": "sunday",
     "weekOrder": "baptismOfTheLord",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -165,7 +165,7 @@
     "season": "christmas",
     "weekdayType": "sunday",
     "weekOrder": "baptismOfTheLord",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   }
 ]

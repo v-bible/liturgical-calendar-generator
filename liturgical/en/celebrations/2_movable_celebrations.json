@@ -9,7 +9,7 @@
     "season": "solemnity",
     "weekdayType": "trinitySunday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Solemnity of the Most Holy Trinity"
   },
   {
@@ -22,7 +22,7 @@
     "season": "solemnity",
     "weekdayType": "trinitySunday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Solemnity of the Most Holy Trinity"
   },
   {
@@ -35,7 +35,7 @@
     "season": "solemnity",
     "weekdayType": "trinitySunday",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Solemnity of the Most Holy Trinity"
   },
   {
@@ -48,7 +48,7 @@
     "season": "solemnity",
     "weekdayType": "bodyAndBloodOfChrist",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Solemnity of the Most Holy Body and Blood of Christ (formerly called \"Corpus Christi\")"
   },
   {
@@ -61,7 +61,7 @@
     "season": "solemnity",
     "weekdayType": "bodyAndBloodOfChrist",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Solemnity of the Most Holy Body and Blood of Christ (formerly called \"Corpus Christi\")"
   },
   {
@@ -74,7 +74,7 @@
     "season": "solemnity",
     "weekdayType": "bodyAndBloodOfChrist",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Solemnity of the Most Holy Body and Blood of Christ (formerly called \"Corpus Christi\")"
   },
   {
@@ -87,7 +87,7 @@
     "season": "solemnity",
     "weekdayType": "sacredHeart",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Solemnity of the Most Sacred Heart of Jesus"
   },
   {
@@ -100,7 +100,7 @@
     "season": "solemnity",
     "weekdayType": "sacredHeart",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Solemnity of the Most Sacred Heart of Jesus"
   },
   {
@@ -113,7 +113,7 @@
     "season": "solemnity",
     "weekdayType": "sacredHeart",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Solemnity of the Most Sacred Heart of Jesus"
   },
   {
@@ -126,7 +126,7 @@
     "season": "feast",
     "weekdayType": "02/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Presentation of the Lord"
   },
   {
@@ -139,7 +139,7 @@
     "season": "solemnity",
     "weekdayType": "19/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Joseph, Spouse of the Blessed Virgin Mary"
   },
   {
@@ -152,7 +152,7 @@
     "season": "solemnity",
     "weekdayType": "20/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Joseph, Spouse of the Blessed Virgin Mary (transferred to Monday 3/20 if 3/19 is a Sunday)"
   },
   {
@@ -165,7 +165,7 @@
     "season": "solemnity",
     "weekdayType": "annunciationOfTheLord",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Annunciation of the Lord"
   },
   {
@@ -178,7 +178,7 @@
     "season": "solemnity",
     "weekdayType": "23/06",
     "weekOrder": "",
-    "periodOfDay": "vigil",
+    "periodOfDay": "vigilMass",
     "description": "The Nativity of St. John the Baptist"
   },
   {
@@ -204,7 +204,7 @@
     "season": "solemnity",
     "weekdayType": "28/06",
     "weekOrder": "",
-    "periodOfDay": "vigil",
+    "periodOfDay": "vigilMass",
     "description": "SS. Peter and Paul, Apostles"
   },
   {
@@ -230,7 +230,7 @@
     "season": "feast",
     "weekdayType": "06/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -243,7 +243,7 @@
     "season": "feast",
     "weekdayType": "06/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -256,7 +256,7 @@
     "season": "feast",
     "weekdayType": "06/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -269,7 +269,7 @@
     "season": "solemnity",
     "weekdayType": "14/08",
     "weekOrder": "",
-    "periodOfDay": "vigil",
+    "periodOfDay": "vigilMass",
     "description": "The Assumption of the Blessed Virgin Mary"
   },
   {
@@ -295,7 +295,7 @@
     "season": "feast",
     "weekdayType": "14/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Exaltation of the Cross"
   },
   {
@@ -308,7 +308,7 @@
     "season": "solemnity",
     "weekdayType": "01/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "All Saints"
   },
   {
@@ -352,7 +352,7 @@
     "season": "solemnity",
     "weekdayType": "02/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Commemoration of All the Faithful Departed (All Souls)"
   },
   {
@@ -365,7 +365,7 @@
     "season": "feast",
     "weekdayType": "09/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Dedication of the Lateran Basilica"
   },
   {
@@ -378,7 +378,7 @@
     "season": "solemnity",
     "weekdayType": "08/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Immaculate Conception of the Blessed Virgin Mary"
   },
   {
@@ -391,7 +391,7 @@
     "season": "solemnity",
     "weekdayType": "09/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Immaculate Conception of the Blessed Virgin Mary (transferred to Monday 12/9 if 12/8 is a Sunday of Advent)"
   }
 ]

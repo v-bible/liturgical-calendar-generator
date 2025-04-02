@@ -9,7 +9,7 @@
     "season": "advent",
     "weekdayType": "monday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -22,7 +22,7 @@
     "season": "advent",
     "weekdayType": "tuesday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -35,7 +35,7 @@
     "season": "advent",
     "weekdayType": "wednesday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -48,7 +48,7 @@
     "season": "advent",
     "weekdayType": "thursday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -61,7 +61,7 @@
     "season": "advent",
     "weekdayType": "friday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -74,7 +74,7 @@
     "season": "advent",
     "weekdayType": "saturday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -87,7 +87,7 @@
     "season": "advent",
     "weekdayType": "monday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -100,7 +100,7 @@
     "season": "advent",
     "weekdayType": "tuesday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -113,7 +113,7 @@
     "season": "advent",
     "weekdayType": "wednesday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -126,7 +126,7 @@
     "season": "advent",
     "weekdayType": "thursday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -139,7 +139,7 @@
     "season": "advent",
     "weekdayType": "friday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -152,7 +152,7 @@
     "season": "advent",
     "weekdayType": "saturday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -165,7 +165,7 @@
     "season": "advent",
     "weekdayType": "monday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -178,7 +178,7 @@
     "season": "advent",
     "weekdayType": "tuesday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -191,7 +191,7 @@
     "season": "advent",
     "weekdayType": "wednesday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -204,7 +204,7 @@
     "season": "advent",
     "weekdayType": "thursday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -217,7 +217,7 @@
     "season": "advent",
     "weekdayType": "friday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -230,7 +230,7 @@
     "season": "advent",
     "weekdayType": "17/12",
     "weekOrder": "preChristmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -243,7 +243,7 @@
     "season": "advent",
     "weekdayType": "18/12",
     "weekOrder": "preChristmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -256,7 +256,7 @@
     "season": "advent",
     "weekdayType": "19/12",
     "weekOrder": "preChristmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -269,7 +269,7 @@
     "season": "advent",
     "weekdayType": "20/12",
     "weekOrder": "preChristmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -282,7 +282,7 @@
     "season": "advent",
     "weekdayType": "21/12",
     "weekOrder": "preChristmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -295,7 +295,7 @@
     "season": "advent",
     "weekdayType": "22/12",
     "weekOrder": "preChristmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -308,7 +308,7 @@
     "season": "advent",
     "weekdayType": "23/12",
     "weekOrder": "preChristmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -321,7 +321,7 @@
     "season": "advent",
     "weekdayType": "24/12",
     "weekOrder": "preChristmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   }
 ]

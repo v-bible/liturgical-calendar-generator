@@ -9,7 +9,7 @@
     "season": "memorial",
     "weekdayType": "02/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Basil the Great & Gregory Nazianzen, bishops and doctors of the Church"
   },
   {
@@ -22,7 +22,7 @@
     "season": "",
     "weekdayType": "03/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Most Holy Name of Jesus"
   },
   {
@@ -35,7 +35,7 @@
     "season": "",
     "weekdayType": "07/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Raymond of Peñafort, priest"
   },
   {
@@ -48,7 +48,7 @@
     "season": "",
     "weekdayType": "13/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Hilary, bishop and doctor of the Church"
   },
   {
@@ -61,7 +61,7 @@
     "season": "memorial",
     "weekdayType": "17/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Anthony, abbot"
   },
   {
@@ -74,7 +74,7 @@
     "season": "",
     "weekdayType": "20/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Fabian, pope and martyr"
   },
   {
@@ -87,7 +87,7 @@
     "season": "",
     "weekdayType": "20/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Sebastian, martyr"
   },
   {
@@ -100,7 +100,7 @@
     "season": "memorial",
     "weekdayType": "21/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Agnes, virgin and martyr"
   },
   {
@@ -113,7 +113,7 @@
     "season": "",
     "weekdayType": "22/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Vincent, deacon and martyr"
   },
   {
@@ -126,7 +126,7 @@
     "season": "memorial",
     "weekdayType": "24/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Francis de Sales, bishop and doctor of the Church"
   },
   {
@@ -139,7 +139,7 @@
     "season": "feast",
     "weekdayType": "25/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Conversion of St. Paul, Apostle"
   },
   {
@@ -152,7 +152,7 @@
     "season": "memorial",
     "weekdayType": "26/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Timothy and Titus, bishops"
   },
   {
@@ -165,7 +165,7 @@
     "season": "",
     "weekdayType": "27/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Angela Merici, virgin"
   },
   {
@@ -178,7 +178,7 @@
     "season": "memorial",
     "weekdayType": "28/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Thomas Aquinas, priest and doctor of the Church"
   },
   {
@@ -191,7 +191,7 @@
     "season": "memorial",
     "weekdayType": "31/01",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John Bosco, priest"
   },
   {
@@ -204,7 +204,7 @@
     "season": "feast",
     "weekdayType": "02/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Presentation of the Lord"
   },
   {
@@ -217,7 +217,7 @@
     "season": "",
     "weekdayType": "03/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Blaise, bishop and martyr"
   },
   {
@@ -230,7 +230,7 @@
     "season": "",
     "weekdayType": "03/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Ansgar, bishop"
   },
   {
@@ -243,7 +243,7 @@
     "season": "memorial",
     "weekdayType": "05/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Agatha, virgin and martyr"
   },
   {
@@ -256,7 +256,7 @@
     "season": "memorial",
     "weekdayType": "06/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Paul Miki, priest and martyr, and Companions, martyrs"
   },
   {
@@ -269,7 +269,7 @@
     "season": "",
     "weekdayType": "08/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Jerome Emiliani, priest"
   },
   {
@@ -282,7 +282,7 @@
     "season": "",
     "weekdayType": "08/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Josephine Bakhita, virgin (also \"International Day of Prayer and Awareness Against Human Trafficking\")"
   },
   {
@@ -295,7 +295,7 @@
     "season": "memorial",
     "weekdayType": "10/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Scholastica, virgin"
   },
   {
@@ -308,7 +308,7 @@
     "season": "",
     "weekdayType": "11/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Our Lady of Lourdes"
   },
   {
@@ -321,7 +321,7 @@
     "season": "memorial",
     "weekdayType": "14/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Cyril, monk, and Methodius, bishop"
   },
   {
@@ -334,7 +334,7 @@
     "season": "",
     "weekdayType": "17/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Seven Founders of the Order of Servites"
   },
   {
@@ -347,7 +347,7 @@
     "season": "",
     "weekdayType": "21/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Peter Damian, bishop and doctor of the Church"
   },
   {
@@ -360,7 +360,7 @@
     "season": "feast",
     "weekdayType": "22/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Chair of St. Peter, Apostle"
   },
   {
@@ -373,7 +373,7 @@
     "season": "memorial",
     "weekdayType": "23/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Polycarp, bishop and martyr"
   },
   {
@@ -386,7 +386,7 @@
     "season": "",
     "weekdayType": "27/02",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Gregory of Narek, abbot and doctor of the Church"
   },
   {
@@ -399,7 +399,7 @@
     "season": "",
     "weekdayType": "04/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Casimir"
   },
   {
@@ -412,7 +412,7 @@
     "season": "memorial",
     "weekdayType": "07/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Perpetua and Felicity, martyrs"
   },
   {
@@ -425,7 +425,7 @@
     "season": "",
     "weekdayType": "08/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John of God, religious"
   },
   {
@@ -438,7 +438,7 @@
     "season": "",
     "weekdayType": "09/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Frances of Rome, religious"
   },
   {
@@ -451,7 +451,7 @@
     "season": "",
     "weekdayType": "17/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Patrick, bishop"
   },
   {
@@ -464,7 +464,7 @@
     "season": "",
     "weekdayType": "18/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Cyril of Jerusalem, bishop and doctor of the Church"
   },
   {
@@ -477,7 +477,7 @@
     "season": "solemnity",
     "weekdayType": "19/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Joseph, husband of the Blessed Virgin Mary"
   },
   {
@@ -490,7 +490,7 @@
     "season": "",
     "weekdayType": "23/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Turibius of Mongrovejo, bishop"
   },
   {
@@ -503,7 +503,7 @@
     "season": "solemnity",
     "weekdayType": "25/03",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Annunciation of the Lord"
   },
   {
@@ -516,7 +516,7 @@
     "season": "",
     "weekdayType": "02/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Francis of Paola, hermit"
   },
   {
@@ -529,7 +529,7 @@
     "season": "",
     "weekdayType": "04/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Isidore, bishop and doctor of the Church"
   },
   {
@@ -542,7 +542,7 @@
     "season": "",
     "weekdayType": "05/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Vincent Ferrer, priest"
   },
   {
@@ -555,7 +555,7 @@
     "season": "memorial",
     "weekdayType": "07/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John Baptist de la Salle, priest"
   },
   {
@@ -568,7 +568,7 @@
     "season": "memorial",
     "weekdayType": "11/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Stanislaus, bishop and martyr"
   },
   {
@@ -581,7 +581,7 @@
     "season": "",
     "weekdayType": "13/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Martin I, pope and martyr"
   },
   {
@@ -594,7 +594,7 @@
     "season": "",
     "weekdayType": "21/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Anselm, bishop and doctor of the Church"
   },
   {
@@ -607,7 +607,7 @@
     "season": "",
     "weekdayType": "23/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. George, martyr"
   },
   {
@@ -620,7 +620,7 @@
     "season": "",
     "weekdayType": "23/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Adalbert, bishop and martyr"
   },
   {
@@ -633,7 +633,7 @@
     "season": "",
     "weekdayType": "24/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Fidelis of Sigmaringen, priest and martyr"
   },
   {
@@ -646,7 +646,7 @@
     "season": "feast",
     "weekdayType": "25/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Mark, evangelist"
   },
   {
@@ -659,7 +659,7 @@
     "season": "",
     "weekdayType": "28/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Peter Chanel, priest and martyr"
   },
   {
@@ -672,7 +672,7 @@
     "season": "",
     "weekdayType": "28/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Louis Grignion de Montfort, priest"
   },
   {
@@ -685,7 +685,7 @@
     "season": "memorial",
     "weekdayType": "29/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Catherine of Siena, virgin and doctor of the Church"
   },
   {
@@ -698,7 +698,7 @@
     "season": "",
     "weekdayType": "30/04",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Pius V, pope, religious"
   },
   {
@@ -711,7 +711,7 @@
     "season": "",
     "weekdayType": "01/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Joseph the Worker"
   },
   {
@@ -724,7 +724,7 @@
     "season": "memorial",
     "weekdayType": "02/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Athanasius, bishop and doctor of the Church"
   },
   {
@@ -737,7 +737,7 @@
     "season": "feast",
     "weekdayType": "03/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Philip and James, Apostles"
   },
   {
@@ -750,7 +750,7 @@
     "season": "",
     "weekdayType": "10/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John of Avila, priest and doctor of the Church"
   },
   {
@@ -763,7 +763,7 @@
     "season": "",
     "weekdayType": "12/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Nereus and Achilleus, martyrs"
   },
   {
@@ -776,7 +776,7 @@
     "season": "",
     "weekdayType": "12/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Pancras, martyr"
   },
   {
@@ -789,7 +789,7 @@
     "season": "",
     "weekdayType": "13/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Our Lady of Fatima"
   },
   {
@@ -802,7 +802,7 @@
     "season": "feast",
     "weekdayType": "14/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Matthias, Apostle"
   },
   {
@@ -815,7 +815,7 @@
     "season": "",
     "weekdayType": "18/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John I, pope and martyr"
   },
   {
@@ -828,7 +828,7 @@
     "season": "",
     "weekdayType": "20/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Bernardine of Siena, priest"
   },
   {
@@ -841,7 +841,7 @@
     "season": "",
     "weekdayType": "21/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Christopher Magallanes, priest, and Companions, martyrs"
   },
   {
@@ -854,7 +854,7 @@
     "season": "",
     "weekdayType": "22/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Rita of Cascia, religious"
   },
   {
@@ -867,7 +867,7 @@
     "season": "",
     "weekdayType": "25/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Bede the Venerable, priest and doctor of the Church"
   },
   {
@@ -880,7 +880,7 @@
     "season": "",
     "weekdayType": "25/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Gregory VII, pope, religious"
   },
   {
@@ -893,7 +893,7 @@
     "season": "",
     "weekdayType": "25/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Mary Magdalene de' Pazzi, virgin"
   },
   {
@@ -906,7 +906,7 @@
     "season": "memorial",
     "weekdayType": "26/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Philip Neri, priest"
   },
   {
@@ -919,7 +919,7 @@
     "season": "",
     "weekdayType": "27/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Augustine of Canterbury, bishop"
   },
   {
@@ -932,7 +932,7 @@
     "season": "",
     "weekdayType": "29/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Paul VI, pope"
   },
   {
@@ -945,7 +945,7 @@
     "season": "feast",
     "weekdayType": "31/05",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Visitation of the Blessed Virgin Mary"
   },
   {
@@ -958,7 +958,7 @@
     "season": "memorial",
     "weekdayType": "01/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Justin, martyr"
   },
   {
@@ -971,7 +971,7 @@
     "season": "",
     "weekdayType": "02/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Marcellinus and Peter, martyrs"
   },
   {
@@ -984,7 +984,7 @@
     "season": "memorial",
     "weekdayType": "03/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Charles Lwanga and companions, martyrs"
   },
   {
@@ -997,7 +997,7 @@
     "season": "memorial",
     "weekdayType": "05/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Boniface, bishop and martyr"
   },
   {
@@ -1010,7 +1010,7 @@
     "season": "",
     "weekdayType": "06/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Norbert, bishop"
   },
   {
@@ -1023,7 +1023,7 @@
     "season": "",
     "weekdayType": "09/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Ephrem, deacon and doctor of the Church"
   },
   {
@@ -1036,7 +1036,7 @@
     "season": "memorial",
     "weekdayType": "11/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Barnabas, Apostle"
   },
   {
@@ -1049,7 +1049,7 @@
     "season": "memorial",
     "weekdayType": "13/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Anthony of Padua, priest and doctor of the Church"
   },
   {
@@ -1062,7 +1062,7 @@
     "season": "",
     "weekdayType": "19/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Romuald, abbot"
   },
   {
@@ -1075,7 +1075,7 @@
     "season": "memorial",
     "weekdayType": "21/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Aloysius Gonzaga, religious"
   },
   {
@@ -1088,7 +1088,7 @@
     "season": "",
     "weekdayType": "22/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Paulinus of Nola, bishop"
   },
   {
@@ -1101,7 +1101,7 @@
     "season": "",
     "weekdayType": "22/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John Fisher, bishop and martyr, and St. Thomas More, martyr"
   },
   {
@@ -1114,7 +1114,7 @@
     "season": "solemnity",
     "weekdayType": "24/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Nativity of St. John the Baptist, Vigil"
   },
   {
@@ -1127,7 +1127,7 @@
     "season": "solemnity",
     "weekdayType": "24/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Nativity of St. John the Baptist, Mass during the Day"
   },
   {
@@ -1140,7 +1140,7 @@
     "season": "",
     "weekdayType": "27/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Cyril of Alexandria, bishop and doctor of the Church"
   },
   {
@@ -1153,7 +1153,7 @@
     "season": "memorial",
     "weekdayType": "28/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Irenaeus, bishop and martyr, and doctor of the Church"
   },
   {
@@ -1166,7 +1166,7 @@
     "season": "solemnity",
     "weekdayType": "29/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Peter and Paul, Apostles, Vigil"
   },
   {
@@ -1179,7 +1179,7 @@
     "season": "solemnity",
     "weekdayType": "29/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Peter and Paul, Apostles, Mass during the Day"
   },
   {
@@ -1192,7 +1192,7 @@
     "season": "",
     "weekdayType": "30/06",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The First Martyrs of Holy Roman Church"
   },
   {
@@ -1205,7 +1205,7 @@
     "season": "feast",
     "weekdayType": "03/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Thomas, Apostle"
   },
   {
@@ -1218,7 +1218,7 @@
     "season": "",
     "weekdayType": "04/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Elizabeth of Portugal"
   },
   {
@@ -1231,7 +1231,7 @@
     "season": "",
     "weekdayType": "05/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Anthony Mary Zaccaria, priest"
   },
   {
@@ -1244,7 +1244,7 @@
     "season": "calif. proper",
     "weekdayType": "05/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Our Lady of Refuge: Patroness of the Californias"
   },
   {
@@ -1257,7 +1257,7 @@
     "season": "",
     "weekdayType": "06/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Maria Goretti, virgin and martyr"
   },
   {
@@ -1270,7 +1270,7 @@
     "season": "",
     "weekdayType": "09/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Augustine Zhao Rong, priest, and Companions, Chinese martyrs"
   },
   {
@@ -1283,7 +1283,7 @@
     "season": "memorial",
     "weekdayType": "11/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Benedict, abbot"
   },
   {
@@ -1296,7 +1296,7 @@
     "season": "",
     "weekdayType": "13/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Henry"
   },
   {
@@ -1309,7 +1309,7 @@
     "season": "memorial",
     "weekdayType": "15/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Bonaventure, bishop and doctor of the Church"
   },
   {
@@ -1322,7 +1322,7 @@
     "season": "",
     "weekdayType": "16/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Our Lady of Mount Carmel"
   },
   {
@@ -1335,7 +1335,7 @@
     "season": "",
     "weekdayType": "20/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Apollinaris, bishop and martyr"
   },
   {
@@ -1348,7 +1348,7 @@
     "season": "",
     "weekdayType": "21/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Lawrence of Brindisi, priest and doctor of the Church"
   },
   {
@@ -1361,7 +1361,7 @@
     "season": "feast",
     "weekdayType": "22/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Mary Magdalene*"
   },
   {
@@ -1374,7 +1374,7 @@
     "season": "",
     "weekdayType": "23/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Bridget of Sweden, religious"
   },
   {
@@ -1387,7 +1387,7 @@
     "season": "",
     "weekdayType": "24/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Sharbel Makhluf, priest"
   },
   {
@@ -1400,7 +1400,7 @@
     "season": "feast",
     "weekdayType": "25/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. James, Apostle"
   },
   {
@@ -1413,7 +1413,7 @@
     "season": "memorial",
     "weekdayType": "26/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Joachim and Anne, parents of the Blessed Virgin Mary"
   },
   {
@@ -1426,7 +1426,7 @@
     "season": "memorial",
     "weekdayType": "29/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Martha, Mary, and Lazarus*"
   },
   {
@@ -1439,7 +1439,7 @@
     "season": "",
     "weekdayType": "30/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Peter Chrysologus, bishop and doctor of the Church"
   },
   {
@@ -1452,7 +1452,7 @@
     "season": "memorial",
     "weekdayType": "31/07",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Ignatius of Loyola, priest"
   },
   {
@@ -1465,7 +1465,7 @@
     "season": "memorial",
     "weekdayType": "01/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Alphonsus Liguori, bishop and doctor of the Church"
   },
   {
@@ -1478,7 +1478,7 @@
     "season": "",
     "weekdayType": "02/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Eusebius of Vercelli, bishop"
   },
   {
@@ -1491,7 +1491,7 @@
     "season": "",
     "weekdayType": "02/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Peter Julian Eymard, priest"
   },
   {
@@ -1504,7 +1504,7 @@
     "season": "memorial",
     "weekdayType": "04/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John Mary Vianney, priest"
   },
   {
@@ -1517,7 +1517,7 @@
     "season": "",
     "weekdayType": "05/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Dedication of the Basilica of St. Mary Major in Rome"
   },
   {
@@ -1530,7 +1530,7 @@
     "season": "feast",
     "weekdayType": "06/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -1543,7 +1543,7 @@
     "season": "",
     "weekdayType": "07/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Sixtus II, pope and martyr, and his companions, martyrs"
   },
   {
@@ -1556,7 +1556,7 @@
     "season": "",
     "weekdayType": "07/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Cajetan, priest"
   },
   {
@@ -1569,7 +1569,7 @@
     "season": "memorial",
     "weekdayType": "08/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Dominic, priest"
   },
   {
@@ -1582,7 +1582,7 @@
     "season": "",
     "weekdayType": "09/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Teresa Benedicta of the Cross, virgin and martyr"
   },
   {
@@ -1595,7 +1595,7 @@
     "season": "feast",
     "weekdayType": "10/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Lawrence, deacon and martyr"
   },
   {
@@ -1608,7 +1608,7 @@
     "season": "memorial",
     "weekdayType": "11/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Clare, virgin"
   },
   {
@@ -1621,7 +1621,7 @@
     "season": "",
     "weekdayType": "12/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Jane Frances de Chantal, religious [previously Dec. 12 or Aug. 18]"
   },
   {
@@ -1634,7 +1634,7 @@
     "season": "",
     "weekdayType": "13/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Pontian, pope and martyr, and St. Hippolytus, priest and martyr"
   },
   {
@@ -1647,7 +1647,7 @@
     "season": "memorial",
     "weekdayType": "14/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Maximilian Mary Kolbe, priest and martyr"
   },
   {
@@ -1660,7 +1660,7 @@
     "season": "solemnity",
     "weekdayType": "15/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Assumption of the Blessed Virgin Mary, Vigil"
   },
   {
@@ -1673,7 +1673,7 @@
     "season": "solemnity",
     "weekdayType": "15/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Assumption of the Blessed Virgin Mary, Mass during the Day"
   },
   {
@@ -1686,7 +1686,7 @@
     "season": "",
     "weekdayType": "16/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Stephen of Hungary"
   },
   {
@@ -1699,7 +1699,7 @@
     "season": "",
     "weekdayType": "19/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John Eudes, priest"
   },
   {
@@ -1712,7 +1712,7 @@
     "season": "memorial",
     "weekdayType": "20/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Bernard, abbot and doctor of the Church"
   },
   {
@@ -1725,7 +1725,7 @@
     "season": "memorial",
     "weekdayType": "21/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Pius X, pope"
   },
   {
@@ -1738,7 +1738,7 @@
     "season": "memorial",
     "weekdayType": "22/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Queenship of the Blessed Virgin Mary"
   },
   {
@@ -1751,7 +1751,7 @@
     "season": "",
     "weekdayType": "23/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Rose of Lima, virgin"
   },
   {
@@ -1764,7 +1764,7 @@
     "season": "feast",
     "weekdayType": "24/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Bartholomew, Apostle"
   },
   {
@@ -1777,7 +1777,7 @@
     "season": "",
     "weekdayType": "25/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Louis of France"
   },
   {
@@ -1790,7 +1790,7 @@
     "season": "",
     "weekdayType": "25/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Joseph Calasanz, priest"
   },
   {
@@ -1803,7 +1803,7 @@
     "season": "memorial",
     "weekdayType": "27/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Monica"
   },
   {
@@ -1816,7 +1816,7 @@
     "season": "memorial",
     "weekdayType": "28/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Augustine, bishop and doctor of the Church"
   },
   {
@@ -1829,7 +1829,7 @@
     "season": "memorial",
     "weekdayType": "29/08",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Passion/Martyrdom of St. John the Baptist"
   },
   {
@@ -1842,7 +1842,7 @@
     "season": "memorial",
     "weekdayType": "03/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Gregory the Great, pope and doctor of the Church"
   },
   {
@@ -1855,7 +1855,7 @@
     "season": "feast",
     "weekdayType": "08/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Nativity of the Blessed Virgin Mary"
   },
   {
@@ -1868,7 +1868,7 @@
     "season": "",
     "weekdayType": "12/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Most Holy Name of the Blessed Virgin Mary"
   },
   {
@@ -1881,7 +1881,7 @@
     "season": "memorial",
     "weekdayType": "13/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John Chrysostom, bishop and doctor of the Church"
   },
   {
@@ -1894,7 +1894,7 @@
     "season": "feast",
     "weekdayType": "14/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Exaltation of the Holy Cross"
   },
   {
@@ -1907,7 +1907,7 @@
     "season": "memorial",
     "weekdayType": "15/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Our Lady of Sorrows"
   },
   {
@@ -1920,7 +1920,7 @@
     "season": "memorial",
     "weekdayType": "16/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Cornelius, pope and martyr, and St. Cyprian, bishop and martyr"
   },
   {
@@ -1933,7 +1933,7 @@
     "season": "",
     "weekdayType": "17/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Robert Bellarmine, bishop and doctor of the Church"
   },
   {
@@ -1946,7 +1946,7 @@
     "season": "",
     "weekdayType": "17/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Hildegard of Bingen, virgin and doctor of the Church"
   },
   {
@@ -1959,7 +1959,7 @@
     "season": "",
     "weekdayType": "19/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Januarius, bishop and martyr"
   },
   {
@@ -1972,7 +1972,7 @@
     "season": "memorial",
     "weekdayType": "20/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Andrew Kim Taegon, priest and martyr, St. Paul Chong Hasang, catechist and martyr, and their companions, martyrs"
   },
   {
@@ -1985,7 +1985,7 @@
     "season": "feast",
     "weekdayType": "21/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Matthew, Apostle and evangelist"
   },
   {
@@ -1998,7 +1998,7 @@
     "season": "memorial",
     "weekdayType": "23/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Pius of Pietrelcina, priest"
   },
   {
@@ -2011,7 +2011,7 @@
     "season": "",
     "weekdayType": "26/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Cosmas and Damian, martyrs"
   },
   {
@@ -2024,7 +2024,7 @@
     "season": "memorial",
     "weekdayType": "27/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Vincent de Paul, priest"
   },
   {
@@ -2037,7 +2037,7 @@
     "season": "",
     "weekdayType": "28/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Lawrence Ruiz, martyr, and his companions, martyrs"
   },
   {
@@ -2050,7 +2050,7 @@
     "season": "",
     "weekdayType": "28/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Wenceslaus, martyr"
   },
   {
@@ -2063,7 +2063,7 @@
     "season": "feast",
     "weekdayType": "29/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Michael, Gabriel, and Raphael, archangels"
   },
   {
@@ -2076,7 +2076,7 @@
     "season": "memorial",
     "weekdayType": "30/09",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Jerome, priest and doctor of the Church"
   },
   {
@@ -2089,7 +2089,7 @@
     "season": "memorial",
     "weekdayType": "01/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Thérèse of the Child Jesus, virgin and doctor of the Church"
   },
   {
@@ -2102,7 +2102,7 @@
     "season": "memorial",
     "weekdayType": "02/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Holy Guardian Angels"
   },
   {
@@ -2115,7 +2115,7 @@
     "season": "memorial",
     "weekdayType": "04/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Francis of Assisi, religious"
   },
   {
@@ -2128,7 +2128,7 @@
     "season": "",
     "weekdayType": "05/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Maria Faustina Kowalska, virgin"
   },
   {
@@ -2141,7 +2141,7 @@
     "season": "",
     "weekdayType": "06/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Bruno, priest"
   },
   {
@@ -2154,7 +2154,7 @@
     "season": "memorial",
     "weekdayType": "07/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Our Lady of the Rosary"
   },
   {
@@ -2167,7 +2167,7 @@
     "season": "",
     "weekdayType": "09/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Denis, bishop and martyr, and his companions, martyrs"
   },
   {
@@ -2180,7 +2180,7 @@
     "season": "",
     "weekdayType": "09/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John Leonardi, priest"
   },
   {
@@ -2193,7 +2193,7 @@
     "season": "",
     "weekdayType": "11/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John XXIII, pope"
   },
   {
@@ -2206,7 +2206,7 @@
     "season": "",
     "weekdayType": "14/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Callistus I, pope and martyr"
   },
   {
@@ -2219,7 +2219,7 @@
     "season": "memorial",
     "weekdayType": "15/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Teresa of Jesus, virgin and doctor of the Church"
   },
   {
@@ -2232,7 +2232,7 @@
     "season": "",
     "weekdayType": "16/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Hedwig, religious"
   },
   {
@@ -2245,7 +2245,7 @@
     "season": "",
     "weekdayType": "16/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Margaret Mary Alacoque, virgin"
   },
   {
@@ -2258,7 +2258,7 @@
     "season": "memorial",
     "weekdayType": "17/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Ignatius of Antioch, bishop and martyr"
   },
   {
@@ -2271,7 +2271,7 @@
     "season": "feast",
     "weekdayType": "18/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Luke, evangelist"
   },
   {
@@ -2284,7 +2284,7 @@
     "season": "",
     "weekdayType": "22/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John Paul II, pope"
   },
   {
@@ -2297,7 +2297,7 @@
     "season": "",
     "weekdayType": "23/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John of Capistrano, priest"
   },
   {
@@ -2310,7 +2310,7 @@
     "season": "",
     "weekdayType": "24/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Anthony Mary Claret, bishop"
   },
   {
@@ -2323,7 +2323,7 @@
     "season": "feast",
     "weekdayType": "28/10",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Sts. Simon and Jude, Apostles"
   },
   {
@@ -2336,7 +2336,7 @@
     "season": "solemnity",
     "weekdayType": "01/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "All Saints"
   },
   {
@@ -2349,7 +2349,7 @@
     "season": "solemnity",
     "weekdayType": "02/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Commemoration of all the Faithful Departed"
   },
   {
@@ -2362,7 +2362,7 @@
     "season": "",
     "weekdayType": "03/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Martin de Porres, religious"
   },
   {
@@ -2375,7 +2375,7 @@
     "season": "memorial",
     "weekdayType": "04/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Charles Borromeo, bishop"
   },
   {
@@ -2388,7 +2388,7 @@
     "season": "feast",
     "weekdayType": "09/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Dedication of the Lateran Basilica in Rome"
   },
   {
@@ -2401,7 +2401,7 @@
     "season": "memorial",
     "weekdayType": "10/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Leo the Great, pope and doctor of the Church"
   },
   {
@@ -2414,7 +2414,7 @@
     "season": "memorial",
     "weekdayType": "11/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Martin of Tours, bishop"
   },
   {
@@ -2427,7 +2427,7 @@
     "season": "memorial",
     "weekdayType": "12/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Josaphat, bishop and martyr"
   },
   {
@@ -2440,7 +2440,7 @@
     "season": "",
     "weekdayType": "15/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Albert the Great, bishop and doctor of the Church"
   },
   {
@@ -2453,7 +2453,7 @@
     "season": "",
     "weekdayType": "16/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Margaret of Scotland"
   },
   {
@@ -2466,7 +2466,7 @@
     "season": "",
     "weekdayType": "16/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Gertrude, virgin"
   },
   {
@@ -2479,7 +2479,7 @@
     "season": "memorial",
     "weekdayType": "17/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Elizabeth of Hungary, religious"
   },
   {
@@ -2492,7 +2492,7 @@
     "season": "",
     "weekdayType": "18/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Dedication of the Basilicas of Sts. Peter and Paul, Apostles"
   },
   {
@@ -2505,7 +2505,7 @@
     "season": "memorial",
     "weekdayType": "21/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Presentation of the Blessed Virgin Mary"
   },
   {
@@ -2518,7 +2518,7 @@
     "season": "memorial",
     "weekdayType": "22/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Cecilia, virgin and martyr"
   },
   {
@@ -2531,7 +2531,7 @@
     "season": "",
     "weekdayType": "23/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Clement I, pope and martyr"
   },
   {
@@ -2544,7 +2544,7 @@
     "season": "",
     "weekdayType": "23/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Columban, abbot"
   },
   {
@@ -2557,7 +2557,7 @@
     "season": "memorial",
     "weekdayType": "24/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Andrew Dung-Lac, priest and martyr, and Companions, martyrs"
   },
   {
@@ -2570,7 +2570,7 @@
     "season": "",
     "weekdayType": "25/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Catherine of Alexandria, virgin and martyr"
   },
   {
@@ -2583,7 +2583,7 @@
     "season": "feast",
     "weekdayType": "30/11",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Andrew, Apostle"
   },
   {
@@ -2596,7 +2596,7 @@
     "season": "memorial",
     "weekdayType": "03/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Francis Xavier, priest"
   },
   {
@@ -2609,7 +2609,7 @@
     "season": "",
     "weekdayType": "04/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John of Damascus, priest, religious, doctor of the Church"
   },
   {
@@ -2622,7 +2622,7 @@
     "season": "",
     "weekdayType": "06/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Nicholas, bishop"
   },
   {
@@ -2635,7 +2635,7 @@
     "season": "memorial",
     "weekdayType": "07/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Ambrose, bishop and doctor of the Church"
   },
   {
@@ -2648,7 +2648,7 @@
     "season": "solemnity",
     "weekdayType": "08/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Immaculate Conception of the Blessed Virgin Mary [2024: transferred to Monday, Dec. 9]"
   },
   {
@@ -2661,7 +2661,7 @@
     "season": "",
     "weekdayType": "09/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Juan Diego Cuauhtlatoatzin"
   },
   {
@@ -2674,7 +2674,7 @@
     "season": "",
     "weekdayType": "10/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "Our Lady of Loreto"
   },
   {
@@ -2687,7 +2687,7 @@
     "season": "",
     "weekdayType": "11/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Damasus I, pope"
   },
   {
@@ -2700,7 +2700,7 @@
     "season": "memorial",
     "weekdayType": "13/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Lucy, virgin and martyr"
   },
   {
@@ -2713,7 +2713,7 @@
     "season": "memorial",
     "weekdayType": "14/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John of the Cross, priest and doctor of the Church"
   },
   {
@@ -2726,7 +2726,7 @@
     "season": "",
     "weekdayType": "21/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Peter Canisius, priest and doctor of the Church"
   },
   {
@@ -2739,7 +2739,7 @@
     "season": "",
     "weekdayType": "23/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John of Kanty, priest"
   },
   {
@@ -2752,7 +2752,7 @@
     "season": "feast",
     "weekdayType": "26/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Stephen, the first martyr"
   },
   {
@@ -2765,7 +2765,7 @@
     "season": "feast",
     "weekdayType": "27/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. John, Apostle and evangelist"
   },
   {
@@ -2778,7 +2778,7 @@
     "season": "feast",
     "weekdayType": "28/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "The Holy Innocents, martyrs"
   },
   {
@@ -2791,7 +2791,7 @@
     "season": "",
     "weekdayType": "29/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Thomas Becket, bishop and martyr"
   },
   {
@@ -2804,7 +2804,7 @@
     "season": "",
     "weekdayType": "31/12",
     "weekOrder": "",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": "St. Sylvester I, pope"
   }
 ]

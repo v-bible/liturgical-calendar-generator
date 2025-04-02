@@ -9,7 +9,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "holyThursday",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -22,7 +22,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "goodFriday",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -51,7 +51,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "easter",
-    "periodOfDay": "theEasterVirgil",
+    "periodOfDay": "vigilMass",
     "description": ""
   },
   {
@@ -80,7 +80,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "easter",
-    "periodOfDay": "theEasterVirgil",
+    "periodOfDay": "vigilMass",
     "description": ""
   },
   {
@@ -109,7 +109,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "easter",
-    "periodOfDay": "theEasterVirgil",
+    "periodOfDay": "vigilMass",
     "description": ""
   },
   {
@@ -135,7 +135,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -148,7 +148,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -161,7 +161,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -174,7 +174,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -187,7 +187,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -200,7 +200,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -213,7 +213,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -226,7 +226,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -239,7 +239,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -252,7 +252,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "5",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -265,7 +265,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "5",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -278,7 +278,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "5",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -291,7 +291,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -304,7 +304,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -317,7 +317,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -330,7 +330,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "ascensionOfTheLord",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -343,7 +343,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "ascensionOfTheLord",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -356,7 +356,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "ascensionOfTheLord",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -369,7 +369,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "7",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -382,7 +382,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "7",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -395,7 +395,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "7",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -413,7 +413,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "pentecost",
-    "periodOfDay": "virgilMass",
+    "periodOfDay": "vigilMass",
     "description": ""
   },
   {
@@ -432,7 +432,7 @@
     "season": "triduum",
     "weekdayType": "sunday",
     "weekOrder": "pentecost",
-    "periodOfDay": "virgilMassExtended",
+    "periodOfDay": "vigilMassExtended",
     "description": ""
   },
   {

@@ -9,7 +9,7 @@
     "season": "christmas",
     "weekdayType": "26/12",
     "weekOrder": "christmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -22,7 +22,7 @@
     "season": "christmas",
     "weekdayType": "27/12",
     "weekOrder": "christmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -35,7 +35,7 @@
     "season": "christmas",
     "weekdayType": "28/12",
     "weekOrder": "christmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -48,7 +48,7 @@
     "season": "christmas",
     "weekdayType": "29/12",
     "weekOrder": "christmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -61,7 +61,7 @@
     "season": "christmas",
     "weekdayType": "30/12",
     "weekOrder": "christmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -74,7 +74,7 @@
     "season": "christmas",
     "weekdayType": "31/12",
     "weekOrder": "christmas",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -87,7 +87,7 @@
     "season": "christmas",
     "weekdayType": "02/01",
     "weekOrder": "preEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -100,7 +100,7 @@
     "season": "christmas",
     "weekdayType": "03/01",
     "weekOrder": "preEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -113,7 +113,7 @@
     "season": "christmas",
     "weekdayType": "04/01",
     "weekOrder": "preEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -126,7 +126,7 @@
     "season": "christmas",
     "weekdayType": "05/01",
     "weekOrder": "preEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -139,7 +139,7 @@
     "season": "christmas",
     "weekdayType": "06/01",
     "weekOrder": "preEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -152,7 +152,7 @@
     "season": "christmas",
     "weekdayType": "07/01",
     "weekOrder": "preEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -165,7 +165,7 @@
     "season": "christmas",
     "weekdayType": "monday",
     "weekOrder": "postEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -178,7 +178,7 @@
     "season": "christmas",
     "weekdayType": "tuesday",
     "weekOrder": "postEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -191,7 +191,7 @@
     "season": "christmas",
     "weekdayType": "wednesday",
     "weekOrder": "postEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -204,7 +204,7 @@
     "season": "christmas",
     "weekdayType": "thursday",
     "weekOrder": "postEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -217,7 +217,7 @@
     "season": "christmas",
     "weekdayType": "friday",
     "weekOrder": "postEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -230,7 +230,7 @@
     "season": "christmas",
     "weekdayType": "saturday",
     "weekOrder": "postEpiphany",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -243,7 +243,7 @@
     "season": "christmas",
     "weekdayType": "07/01",
     "weekOrder": "postEpiphanyFromJan6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -256,7 +256,7 @@
     "season": "christmas",
     "weekdayType": "08/01",
     "weekOrder": "postEpiphanyFromJan6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -269,7 +269,7 @@
     "season": "christmas",
     "weekdayType": "09/01",
     "weekOrder": "postEpiphanyFromJan6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -282,7 +282,7 @@
     "season": "christmas",
     "weekdayType": "10/01",
     "weekOrder": "postEpiphanyFromJan6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -295,7 +295,7 @@
     "season": "christmas",
     "weekdayType": "11/01",
     "weekOrder": "postEpiphanyFromJan6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -308,7 +308,7 @@
     "season": "christmas",
     "weekdayType": "12/01",
     "weekOrder": "postEpiphanyFromJan6",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   }
 ]

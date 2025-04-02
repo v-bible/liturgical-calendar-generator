@@ -9,7 +9,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -22,7 +22,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -35,7 +35,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "1",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -48,7 +48,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -61,7 +61,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -74,7 +74,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "2",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -87,7 +87,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -100,7 +100,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -113,7 +113,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "3",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -126,7 +126,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -139,7 +139,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   },
   {
@@ -152,7 +152,7 @@
     "season": "advent",
     "weekdayType": "sunday",
     "weekOrder": "4",
-    "periodOfDay": "",
+    "periodOfDay": "day",
     "description": ""
   }
 ]
