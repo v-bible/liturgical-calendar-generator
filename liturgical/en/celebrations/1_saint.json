@@ -130,7 +130,7 @@
     "description": "St. Francis de Sales, bishop and doctor of the Church"
   },
   {
-    "firstReading": "Acts 22:3-16 or Acts 9:1-22",
+    "firstReading": ["Acts 22:3-16", "Acts 9:1-22"],
     "psalm": "Ps 117:1bc, 2",
     "secondReading": "",
     "gospel": "Mark 16:15-18",
@@ -143,7 +143,7 @@
     "description": "The Conversion of St. Paul, Apostle"
   },
   {
-    "firstReading": "2 Tim 1:1-8 or Titus 1:1-5",
+    "firstReading": ["2 Tim 1:1-8", "Titus 1:1-5"],
     "psalm": "Ps 96:1-2a, 2b-3, 7-8a, 10",
     "secondReading": "",
     "gospel": "Luke 10:1-9",
@@ -198,7 +198,7 @@
     "firstReading": "Mal 3:1-4",
     "psalm": "Ps 24:7, 8, 9, 10",
     "secondReading": "Heb 2:14-18",
-    "gospel": "Luke 2:22-40 or 2:22-32",
+    "gospel": ["Luke 2:22-40", "Luke 2:22-32"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "feast",
@@ -263,7 +263,7 @@
     "firstReading": "Tob 12:6-13",
     "psalm": "Ps 34:2-3, 4-5, 6-7, 8-9, 10-11",
     "secondReading": "",
-    "gospel": "Mark 10:17-30 or 10:17-27",
+    "gospel": ["Mark 10:17-30", "Mark 10:17-27"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
@@ -471,7 +471,7 @@
     "firstReading": "2 Sam 7:4-5a, 12-14a, 16",
     "psalm": "Ps 89:2-3, 4-5, 27+29",
     "secondReading": "Rom 4:13, 16-18, 22",
-    "gospel": "Matt 1:16, 18-21, 24a or Luke 2:41-51a",
+    "gospel": ["Matt 1:16, 18-21, 24a", "Luke 2:41-51a"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "solemnity",
@@ -676,7 +676,7 @@
     "description": "St. Louis Grignion de Montfort, priest"
   },
   {
-    "firstReading": "1 John 1:5—2:2",
+    "firstReading": "1 John 1:5--2:2",
     "psalm": "Ps 103:1-2, 3-4, 8-9, 13-14, 17-18",
     "secondReading": "",
     "gospel": "Matt 11:25-30",
@@ -702,7 +702,7 @@
     "description": "St. Pius V, pope, religious"
   },
   {
-    "firstReading": "Gen 1:26—2:3 or Col 3:14-15, 17, 23-24",
+    "firstReading": ["Gen 1:26--2:3", "Col 3:14-15, 17, 23-24"],
     "psalm": "Ps 90:2, 3-4, 12-13, 14+16",
     "secondReading": "",
     "gospel": "Matt 13:54-58",
@@ -936,7 +936,7 @@
     "description": "St. Paul VI, pope"
   },
   {
-    "firstReading": "Zeph 3:14-18a or Rom 12:9-16",
+    "firstReading": ["Zeph 3:14-18a", "Rom 12:9-16"],
     "psalm": "Isa 12:2-3, 4bcd, 5-6",
     "secondReading": "",
     "gospel": "Luke 1:39-56",
@@ -1114,7 +1114,7 @@
     "season": "solemnity",
     "weekdayType": "24/06",
     "weekOrder": "",
-    "periodOfDay": "day",
+    "periodOfDay": "vigilMass",
     "description": "The Nativity of St. John the Baptist, Vigil"
   },
   {
@@ -1166,7 +1166,7 @@
     "season": "solemnity",
     "weekdayType": "29/06",
     "weekOrder": "",
-    "periodOfDay": "day",
+    "periodOfDay": "vigilMass",
     "description": "Sts. Peter and Paul, Apostles, Vigil"
   },
   {
@@ -1212,7 +1212,7 @@
     "firstReading": "1 John 3:14-18",
     "psalm": "Ps 112:1-2, 3-4, 5-6,7-8, 9",
     "secondReading": "",
-    "gospel": "Matt 25:31-46 or 25:31-40",
+    "gospel": ["Matt 25:31-46", "Matt 25:31-40"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
@@ -1235,10 +1235,10 @@
     "description": "St. Anthony Mary Zaccaria, priest"
   },
   {
-    "firstReading": "Est C:12, 14-15, 25-30 or Eph 2:4-10",
-    "psalm": "_",
+    "firstReading": ["Est C:12, 14-15, 25-30", "Eph 2:4-10"],
+    "psalm": "",
     "secondReading": "",
-    "gospel": "John 2:1-11 or Luke 1:39-55",
+    "gospel": ["John 2:1-11", "Luke 1:39-55"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "calif. proper",
@@ -1352,7 +1352,7 @@
     "description": "St. Lawrence of Brindisi, priest and doctor of the Church"
   },
   {
-    "firstReading": "Cant 3:1-4b or 2 Cor 5:14-17",
+    "firstReading": ["Cant 3:1-4b", "2 Cor 5:14-17"],
     "psalm": "Ps 63:2, 3-4, 5-6, 8-9",
     "secondReading": "",
     "gospel": "John 20:1-2, 11-18",
@@ -1420,7 +1420,7 @@
     "firstReading": "1 John 4:7-16",
     "psalm": "Ps 34:2-3, 4-5, 6-7, 8-9, 10-11",
     "secondReading": "",
-    "gospel": "John 11:19-27 or Luke 10:38-42",
+    "gospel": ["John 11:19-27", "Luke 10:38-42"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "memorial",
@@ -1443,7 +1443,7 @@
     "description": "St. Peter Chrysologus, bishop and doctor of the Church"
   },
   {
-    "firstReading": "1 Cor 10:31—11:1",
+    "firstReading": "1 Cor 10:31--11:1",
     "psalm": "Ps 34:2-3, 4-5, 6-7, 8-9, 10-11",
     "secondReading": "",
     "gospel": "Luke 14:25-33",
@@ -1498,7 +1498,7 @@
     "firstReading": "Ezek 3:17-21",
     "psalm": "Ps 117:1bc, 2",
     "secondReading": "",
-    "gospel": "Matt 9:35—10:1",
+    "gospel": "Matt 9:35--10:1",
     "yearCycle": "",
     "yearNumber": "",
     "season": "memorial",
@@ -1638,7 +1638,7 @@
     "description": "St. Pontian, pope and martyr, and St. Hippolytus, priest and martyr"
   },
   {
-    "firstReading": "Wis 3:1-9, or 1 John 3:14-18",
+    "firstReading": ["Wis 3:1-9", "1 John 3:14-18"],
     "psalm": "Ps 116:10-11, 12-13, 16ac-17",
     "secondReading": "",
     "gospel": "John 15:12-16",
@@ -1660,7 +1660,7 @@
     "season": "solemnity",
     "weekdayType": "15/08",
     "weekOrder": "",
-    "periodOfDay": "day",
+    "periodOfDay": "vigilMass",
     "description": "The Assumption of the Blessed Virgin Mary, Vigil"
   },
   {
@@ -1680,7 +1680,7 @@
     "firstReading": "Deut 6:3-9",
     "psalm": "Ps 112:1bc-2, 3-4, 5-6, 7-8, 9",
     "secondReading": "",
-    "gospel": "Matt 25:14-30 or 25:14-23",
+    "gospel": ["Matt 25:14-30", "Matt 25:14-23"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "",
@@ -1742,7 +1742,7 @@
     "description": "The Queenship of the Blessed Virgin Mary"
   },
   {
-    "firstReading": "2 Cor 10:17—11:2",
+    "firstReading": "2 Cor 10:17--11:2",
     "psalm": "Ps 148:1bc-2, 11-13a, 13c-14",
     "secondReading": "",
     "gospel": "Matt 13:44-46",
@@ -1781,7 +1781,7 @@
     "description": "St. Louis of France"
   },
   {
-    "firstReading": "1 Cor 12:31—13:13 or 13:4-13",
+    "firstReading": ["1 Cor 12:31--13:13", "1 Cor 13:4-13"],
     "psalm": "Ps 34:2-3, 4-5, 6-7, 8-9, 10-11",
     "secondReading": "",
     "gospel": "Matt 18:1-5",
@@ -1846,10 +1846,10 @@
     "description": "St. Gregory the Great, pope and doctor of the Church"
   },
   {
-    "firstReading": "Micah 5:1-4a or Rom 8:28-30",
+    "firstReading": ["Micah 5:1-4a", "Rom 8:28-30"],
     "psalm": "Ps 13:6ab, 6c",
     "secondReading": "",
-    "gospel": "Matt 1:1-16, 18-23 or 1:18-23",
+    "gospel": ["Matt 1:1-16, 18-23", "Matt 1:18-23"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "feast",
@@ -1875,7 +1875,7 @@
     "firstReading": "Eph 4:1-7, 11-13",
     "psalm": "Ps 40:2+4, 7-8a, 8b-9, 10",
     "secondReading": "",
-    "gospel": "Mark 4:1-10, 13-20 or 4:1-9",
+    "gospel": ["Mark 4:1-10, 13-20", "Mark 4:1-9"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "memorial",
@@ -1901,7 +1901,7 @@
     "firstReading": "Heb 5:7-9",
     "psalm": "Ps 31:2-3b, 3cd-4, 5-6, 15-16, 20",
     "secondReading": "[opt. Sequence: Stabat Mater]",
-    "gospel": "John 19:25-27 or Luke 2:33-35",
+    "gospel": ["John 19:25-27", "Luke 2:33-35"],
     "yearCycle": "",
     "yearNumber": "",
     "season": "memorial",
@@ -1963,7 +1963,7 @@
     "description": "St. Januarius, bishop and martyr"
   },
   {
-    "firstReading": "Wis 3:1-9, or Rom 8:31b-39",
+    "firstReading": ["Wis 3:1-9", "Rom 8:31b-39"],
     "psalm": "Ps 126:1bc-2ab, 2cd-3, 4-5, 6",
     "secondReading": "",
     "gospel": "Luke 9:23-26",
@@ -2054,7 +2054,7 @@
     "description": "St. Wenceslaus, martyr"
   },
   {
-    "firstReading": "Dan 7:9-10, 13-14 or Rev 12:7-12a",
+    "firstReading": ["Dan 7:9-10, 13-14", "Rev 12:7-12a"],
     "psalm": "Ps 138:1-2ab, 2cde-3, 4-5",
     "secondReading": "",
     "gospel": "John 1:47-51",
@@ -2249,7 +2249,7 @@
     "description": "St. Margaret Mary Alacoque, virgin"
   },
   {
-    "firstReading": "Phil 3:17—4:1",
+    "firstReading": "Phil 3:17--4:1",
     "psalm": "Ps 34:2-3, 4-5, 6-7, 8-9",
     "secondReading": "",
     "gospel": "John 12:24-26",
@@ -2769,7 +2769,7 @@
     "description": "St. John, Apostle and evangelist"
   },
   {
-    "firstReading": "1 John 1:5—2:2",
+    "firstReading": "1 John 1:5--2:2",
     "psalm": "Ps 124:2-3, 4-5, 7b-8",
     "secondReading": "",
     "gospel": "Matt 2:13-18",
