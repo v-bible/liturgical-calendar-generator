@@ -11,6 +11,7 @@
     "weekdayType": "trinitySunday",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "Solemnity of the Most Holy Trinity"
   },
   {
@@ -25,6 +26,7 @@
     "weekdayType": "trinitySunday",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "Solemnity of the Most Holy Trinity"
   },
   {
@@ -39,6 +41,7 @@
     "weekdayType": "trinitySunday",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "Solemnity of the Most Holy Trinity"
   },
   {
@@ -53,6 +56,7 @@
     "weekdayType": "bodyAndBloodOfChrist",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "Solemnity of the Most Holy Body and Blood of Christ (formerly called \"Corpus Christi\")"
   },
   {
@@ -67,6 +71,7 @@
     "weekdayType": "bodyAndBloodOfChrist",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "Solemnity of the Most Holy Body and Blood of Christ (formerly called \"Corpus Christi\")"
   },
   {
@@ -81,6 +86,7 @@
     "weekdayType": "bodyAndBloodOfChrist",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "Solemnity of the Most Holy Body and Blood of Christ (formerly called \"Corpus Christi\")"
   },
   {
@@ -95,6 +101,7 @@
     "weekdayType": "sacredHeart",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "Solemnity of the Most Sacred Heart of Jesus"
   },
   {
@@ -109,6 +116,7 @@
     "weekdayType": "sacredHeart",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "Solemnity of the Most Sacred Heart of Jesus"
   },
   {
@@ -123,6 +131,7 @@
     "weekdayType": "sacredHeart",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "Solemnity of the Most Sacred Heart of Jesus"
   },
   {
@@ -137,6 +146,7 @@
     "weekdayType": "02/02",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Presentation of the Lord"
   },
   {
@@ -151,6 +161,7 @@
     "weekdayType": "19/03",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "St. Joseph, Spouse of the Blessed Virgin Mary"
   },
   {
@@ -165,6 +176,7 @@
     "weekdayType": "20/03",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "St. Joseph, Spouse of the Blessed Virgin Mary (transferred to Monday 3/20 if 3/19 is a Sunday)"
   },
   {
@@ -179,6 +191,7 @@
     "weekdayType": "annunciationOfTheLord",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Annunciation of the Lord"
   },
   {
@@ -193,6 +206,7 @@
     "weekdayType": "23/06",
     "weekOrder": "",
     "periodOfDay": "vigilMass",
+    "slug": "",
     "description": "The Nativity of St. John the Baptist"
   },
   {
@@ -207,6 +221,7 @@
     "weekdayType": "24/06",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Nativity of St. John the Baptist"
   },
   {
@@ -221,6 +236,7 @@
     "weekdayType": "28/06",
     "weekOrder": "",
     "periodOfDay": "vigilMass",
+    "slug": "",
     "description": "SS. Peter and Paul, Apostles"
   },
   {
@@ -235,6 +251,7 @@
     "weekdayType": "29/06",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "SS. Peter and Paul, Apostles"
   },
   {
@@ -249,6 +266,7 @@
     "weekdayType": "06/08",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -263,6 +281,7 @@
     "weekdayType": "06/08",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -277,6 +296,7 @@
     "weekdayType": "06/08",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Transfiguration of the Lord"
   },
   {
@@ -291,6 +311,7 @@
     "weekdayType": "14/08",
     "weekOrder": "",
     "periodOfDay": "vigilMass",
+    "slug": "",
     "description": "The Assumption of the Blessed Virgin Mary"
   },
   {
@@ -305,6 +326,7 @@
     "weekdayType": "15/08",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Assumption of the Blessed Virgin Mary"
   },
   {
@@ -319,6 +341,7 @@
     "weekdayType": "14/09",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Exaltation of the Cross"
   },
   {
@@ -333,6 +356,7 @@
     "weekdayType": "01/11",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "All Saints"
   },
   {
@@ -378,6 +402,7 @@
     "weekdayType": "02/11",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Commemoration of All the Faithful Departed (All Souls)"
   },
   {
@@ -392,6 +417,7 @@
     "weekdayType": "09/11",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Dedication of the Lateran Basilica"
   },
   {
@@ -406,6 +432,7 @@
     "weekdayType": "08/12",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Immaculate Conception of the Blessed Virgin Mary"
   },
   {
@@ -420,6 +447,7 @@
     "weekdayType": "09/12",
     "weekOrder": "",
     "periodOfDay": "day",
+    "slug": "",
     "description": "The Immaculate Conception of the Blessed Virgin Mary (transferred to Monday 12/9 if 12/8 is a Sunday of Advent)"
   }
 ]
