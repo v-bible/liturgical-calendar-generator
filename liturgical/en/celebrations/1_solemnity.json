@@ -7,12 +7,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "sunday",
-    "weekOrder": "nativityOfTheLord",
-    "periodOfDay": "vigilMass",
-    "slug": "",
-    "description": ""
+    "weekOrder": "",
+    "periodOfDay": "day",
+    "slug": "nativityOfTheLord",
+    "description": "Solemnity of the Nativity of Our Lord or Christmas"
   },
   {
     "firstReading": "Isa 9:1-6",
@@ -22,12 +22,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "nativityOfTheLord",
+    "weekOrder": "",
     "periodOfDay": "night",
-    "slug": "",
-    "description": ""
+    "slug": "nativityOfTheLord",
+    "description": "Solemnity of the Nativity of Our Lord or Christmas"
   },
   {
     "firstReading": "Isa 62:11-12",
@@ -37,12 +37,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "nativityOfTheLord",
+    "weekOrder": "",
     "periodOfDay": "dawn",
-    "slug": "",
-    "description": ""
+    "slug": "nativityOfTheLord",
+    "description": "Solemnity of the Nativity of Our Lord or Christmas"
   },
   {
     "firstReading": "Isa 52:7-10",
@@ -52,12 +52,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "nativityOfTheLord",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "nativityOfTheLord",
+    "description": "Solemnity of the Nativity of Our Lord or Christmas"
   },
   {
     "firstReading": "Sir 3:2-6, 12-14",
@@ -67,12 +67,12 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "theHolyFamily",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "theHolyFamily",
+    "description": "Feast of the Holy Family of Jesus, Mary and Joseph"
   },
   {
     "firstReading": "Gen 15:1-6; 21:1-3",
@@ -82,12 +82,12 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "theHolyFamily",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "theHolyFamily",
+    "description": "Feast of the Holy Family of Jesus, Mary and Joseph"
   },
   {
     "firstReading": "1 Sam 1:20-22, 24-28",
@@ -97,12 +97,12 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "theHolyFamily",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "theHolyFamily",
+    "description": "Feast of the Holy Family of Jesus, Mary and Joseph"
   },
   {
     "firstReading": "Num 6:22-27",
@@ -112,12 +112,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "maryMotherOfGod",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "maryMotherOfGod",
+    "description": "Solemnity of Mary, the Holy Mother of God"
   },
   {
     "firstReading": "Isa 60:1-6",
@@ -127,12 +127,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "theEpiphanyOfTheLord",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "theEpiphanyOfTheLord",
+    "description": "Solemnity of the Epiphany of the Lord"
   },
   {
     "firstReading": "Isa 42:1-4, 6-7",
@@ -142,12 +142,12 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "baptismOfTheLord",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "baptismOfTheLord",
+    "description": "Feast of the Baptism of the Lord"
   },
   {
     "firstReading": "Isa 55:1-11",
@@ -157,12 +157,12 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "baptismOfTheLord",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "baptismOfTheLord",
+    "description": "Feast of the Baptism of the Lord"
   },
   {
     "firstReading": "Isa 40:1-5, 9-11",
@@ -172,12 +172,12 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "christmas",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "baptismOfTheLord",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "baptismOfTheLord",
+    "description": "Feast of the Baptism of the Lord"
   },
   {
     "firstReading": "Joel 2:12-18",
@@ -187,12 +187,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "lent",
-    "massType": "ordinary",
-    "weekdayType": "ashWednesday",
-    "weekOrder": "ashWednesday",
+    "massType": "feast",
+    "weekdayType": "wednesday",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "ashWednesday",
+    "description": "Ash Wednesday"
   },
   {
     "firstReading": "",
@@ -202,12 +202,12 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "lent",
-    "massType": "ordinary",
+    "massType": ["feast", "palmProcession"],
     "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
-    "periodOfDay": "palmProcession",
-    "slug": "",
-    "description": ""
+    "weekOrder": "",
+    "periodOfDay": "day",
+    "slug": "palmSunday",
+    "description": "Palm Sunday of the Passion of the Lord"
   },
   {
     "firstReading": "",
@@ -217,12 +217,12 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "lent",
-    "massType": "ordinary",
+    "massType": ["feast", "palmProcession"],
     "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
-    "periodOfDay": "palmProcession",
-    "slug": "",
-    "description": ""
+    "weekOrder": "",
+    "periodOfDay": "day",
+    "slug": "palmSunday",
+    "description": "Palm Sunday of the Passion of the Lord"
   },
   {
     "firstReading": "",
@@ -232,12 +232,12 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "lent",
-    "massType": "ordinary",
+    "massType": ["feast", "palmProcession"],
     "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
-    "periodOfDay": "palmProcession",
-    "slug": "",
-    "description": ""
+    "weekOrder": "",
+    "periodOfDay": "day",
+    "slug": "palmSunday",
+    "description": "Palm Sunday of the Passion of the Lord"
   },
   {
     "firstReading": "Isa 50:4-7",
@@ -247,12 +247,12 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "lent",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "palmSunday",
+    "description": "Palm Sunday of the Passion of the Lord"
   },
   {
     "firstReading": "Isa 50:4-7",
@@ -262,12 +262,12 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "lent",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "palmSunday",
+    "description": "Palm Sunday of the Passion of the Lord"
   },
   {
     "firstReading": "Isa 50:4-7",
@@ -277,12 +277,12 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "lent",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "palmSunday",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "palmSunday",
+    "description": "Palm Sunday of the Passion of the Lord"
   },
   {
     "firstReading": "Exod 12:1-8, 11-14",
@@ -292,12 +292,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "holyThursday",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "holyThursday",
+    "description": "Holy Thursday of the Lord’s Supper"
   },
   {
     "firstReading": "Isa 52:13--53:12",
@@ -307,12 +307,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": "feast",
     "weekdayType": "sunday",
-    "weekOrder": "goodFriday",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "goodFriday",
+    "description": "Good Friday"
   },
   {
     "firstReading": ["Gen 1:1--2:2", "Gen 1:1, 26-31a"],
@@ -338,12 +338,12 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "sunday",
-    "weekOrder": "easter",
-    "periodOfDay": "vigilMass",
-    "slug": "",
-    "description": ""
+    "weekOrder": "",
+    "periodOfDay": "day",
+    "slug": "easterVigil",
+    "description": "Easter"
   },
   {
     "firstReading": ["Gen 1:1--2:2", "Gen 1:1, 26-31a"],
@@ -369,12 +369,12 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "sunday",
-    "weekOrder": "easter",
-    "periodOfDay": "vigilMass",
-    "slug": "",
-    "description": ""
+    "weekOrder": "",
+    "periodOfDay": "day",
+    "slug": "easterVigil",
+    "description": "Easter"
   },
   {
     "firstReading": ["Gen 1:1--2:2", "Gen 1:1, 26-31a"],
@@ -400,12 +400,12 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "sunday",
-    "weekOrder": "easter",
-    "periodOfDay": "vigilMass",
-    "slug": "",
-    "description": ""
+    "weekOrder": "",
+    "periodOfDay": "day",
+    "slug": "easterVigil",
+    "description": "Easter"
   },
   {
     "firstReading": "Acts 10:34a, 37-43",
@@ -415,12 +415,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "easter",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "easter",
+    "description": "Easter"
   },
   {
     "firstReading": "Acts 1:1-11",
@@ -430,12 +430,12 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "ascensionOfTheLord",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "ascensionOfTheLord",
+    "description": "Solemnity of the Ascension of the Lord"
   },
   {
     "firstReading": "Acts 1:1-11",
@@ -445,12 +445,12 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "ascensionOfTheLord",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "ascensionOfTheLord",
+    "description": "Solemnity of the Ascension of the Lord"
   },
   {
     "firstReading": "Acts 1:1-11",
@@ -460,12 +460,12 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "ascensionOfTheLord",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "ascensionOfTheLord",
+    "description": "Solemnity of the Ascension of the Lord"
   },
   {
     "firstReading": [
@@ -480,12 +480,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": ["solemnity", "vigil"],
     "weekdayType": "sunday",
-    "weekOrder": "pentecost",
-    "periodOfDay": "vigilMass",
-    "slug": "",
-    "description": ""
+    "weekOrder": "",
+    "periodOfDay": "day",
+    "slug": "pentecostVigil",
+    "description": "The Solemnity of Pentecost"
   },
   {
     "firstReading": "Gen 11:1-9",
@@ -501,12 +501,12 @@
     "yearCycle": "",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": ["solemnity", "vigilExtended"],
     "weekdayType": "sunday",
-    "weekOrder": "pentecost",
-    "periodOfDay": "vigilMassExtended",
-    "slug": "",
-    "description": ""
+    "weekOrder": "",
+    "periodOfDay": "day",
+    "slug": "pentecostVigilExtended",
+    "description": "The Solemnity of Pentecost"
   },
   {
     "firstReading": "Acts 2:1-11",
@@ -516,12 +516,12 @@
     "yearCycle": "A",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "pentecost",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "pentecost",
+    "description": "The Solemnity of Pentecost"
   },
   {
     "firstReading": "Acts 2:1-11",
@@ -531,12 +531,12 @@
     "yearCycle": "B",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "pentecost",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "pentecost",
+    "description": "The Solemnity of Pentecost"
   },
   {
     "firstReading": "Acts 2:1-11",
@@ -546,11 +546,11 @@
     "yearCycle": "C",
     "yearNumber": "",
     "season": "triduum",
-    "massType": "ordinary",
+    "massType": "solemnity",
     "weekdayType": "sunday",
-    "weekOrder": "pentecost",
+    "weekOrder": "",
     "periodOfDay": "day",
-    "slug": "",
-    "description": ""
+    "slug": "pentecost",
+    "description": "The Solemnity of Pentecost"
   }
 ]
