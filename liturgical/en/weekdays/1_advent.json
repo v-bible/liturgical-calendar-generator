@@ -264,7 +264,7 @@
     "season": "advent",
     "massType": "ordinary",
     "weekdayType": "17/12",
-    "weekOrder": "preChristmas",
+    "weekOrder": "beforeChristmas",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -279,7 +279,7 @@
     "season": "advent",
     "massType": "ordinary",
     "weekdayType": "18/12",
-    "weekOrder": "preChristmas",
+    "weekOrder": "beforeChristmas",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -294,7 +294,7 @@
     "season": "advent",
     "massType": "ordinary",
     "weekdayType": "19/12",
-    "weekOrder": "preChristmas",
+    "weekOrder": "beforeChristmas",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -309,7 +309,7 @@
     "season": "advent",
     "massType": "ordinary",
     "weekdayType": "20/12",
-    "weekOrder": "preChristmas",
+    "weekOrder": "beforeChristmas",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -324,7 +324,7 @@
     "season": "advent",
     "massType": "ordinary",
     "weekdayType": "21/12",
-    "weekOrder": "preChristmas",
+    "weekOrder": "beforeChristmas",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -339,7 +339,7 @@
     "season": "advent",
     "massType": "ordinary",
     "weekdayType": "22/12",
-    "weekOrder": "preChristmas",
+    "weekOrder": "beforeChristmas",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -354,7 +354,7 @@
     "season": "advent",
     "massType": "ordinary",
     "weekdayType": "23/12",
-    "weekOrder": "preChristmas",
+    "weekOrder": "beforeChristmas",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -369,7 +369,7 @@
     "season": "advent",
     "massType": "ordinary",
     "weekdayType": "24/12",
-    "weekOrder": "preChristmas",
+    "weekOrder": "beforeChristmas",
     "periodOfDay": "day",
     "slug": "",
     "description": ""

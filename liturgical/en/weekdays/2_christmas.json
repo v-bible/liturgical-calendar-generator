@@ -99,7 +99,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "02/01",
-    "weekOrder": "preEpiphany",
+    "weekOrder": "beforeEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -114,7 +114,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "03/01",
-    "weekOrder": "preEpiphany",
+    "weekOrder": "beforeEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -129,7 +129,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "04/01",
-    "weekOrder": "preEpiphany",
+    "weekOrder": "beforeEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -144,7 +144,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "05/01",
-    "weekOrder": "preEpiphany",
+    "weekOrder": "beforeEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -159,7 +159,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "06/01",
-    "weekOrder": "preEpiphany",
+    "weekOrder": "beforeEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -174,7 +174,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "07/01",
-    "weekOrder": "preEpiphany",
+    "weekOrder": "beforeEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -189,7 +189,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "monday",
-    "weekOrder": "postEpiphany",
+    "weekOrder": "afterEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -204,7 +204,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "tuesday",
-    "weekOrder": "postEpiphany",
+    "weekOrder": "afterEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -219,7 +219,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "wednesday",
-    "weekOrder": "postEpiphany",
+    "weekOrder": "afterEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -234,7 +234,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "thursday",
-    "weekOrder": "postEpiphany",
+    "weekOrder": "afterEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -249,7 +249,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "friday",
-    "weekOrder": "postEpiphany",
+    "weekOrder": "afterEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -264,7 +264,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "saturday",
-    "weekOrder": "postEpiphany",
+    "weekOrder": "afterEpiphany",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -279,7 +279,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "07/01",
-    "weekOrder": "postEpiphanyFromJan6",
+    "weekOrder": "afterEpiphanyFromJan6",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -294,7 +294,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "08/01",
-    "weekOrder": "postEpiphanyFromJan6",
+    "weekOrder": "afterEpiphanyFromJan6",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -309,7 +309,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "09/01",
-    "weekOrder": "postEpiphanyFromJan6",
+    "weekOrder": "afterEpiphanyFromJan6",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -324,7 +324,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "10/01",
-    "weekOrder": "postEpiphanyFromJan6",
+    "weekOrder": "afterEpiphanyFromJan6",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -339,7 +339,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "11/01",
-    "weekOrder": "postEpiphanyFromJan6",
+    "weekOrder": "afterEpiphanyFromJan6",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -354,7 +354,7 @@
     "season": "christmas",
     "massType": "ordinary",
     "weekdayType": "12/01",
-    "weekOrder": "postEpiphanyFromJan6",
+    "weekOrder": "afterEpiphanyFromJan6",
     "periodOfDay": "day",
     "slug": "",
     "description": ""

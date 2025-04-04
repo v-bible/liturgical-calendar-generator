@@ -9,7 +9,7 @@
     "season": "lent",
     "massType": "ordinary",
     "weekdayType": "thursday",
-    "weekOrder": "postAshWednesday",
+    "weekOrder": "afterAshWednesday",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -24,7 +24,7 @@
     "season": "lent",
     "massType": "ordinary",
     "weekdayType": "friday",
-    "weekOrder": "postAshWednesday",
+    "weekOrder": "afterAshWednesday",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
@@ -39,7 +39,7 @@
     "season": "lent",
     "massType": "ordinary",
     "weekdayType": "saturday",
-    "weekOrder": "postAshWednesday",
+    "weekOrder": "afterAshWednesday",
     "periodOfDay": "day",
     "slug": "",
     "description": ""
