@@ -1,9 +1,9 @@
-import { generateCalendar } from '@v-bible/js-sdk';
 import { parse } from 'date-fns';
 import ical from 'ical-generator';
+import { generateLiturgicalCalendar } from '@/lib/gen-liturgical-calendar';
 
 const genICalendar = async (year: number) => {
-  const liturgical = await generateCalendar(year);
+  const liturgical = await generateLiturgicalCalendar(year);
 
   const calendar = ical({
     name: 'Liturgical Calendar',
@@ -18,12 +18,14 @@ const genICalendar = async (year: number) => {
   });
 
   liturgical.forEach((data) => {
+    const summary = data.description;
+
     calendar.createEvent({
       allDay: true,
       start: parse(data.date, 'dd/MM/yyyy', new Date()),
       end: parse(data.date, 'dd/MM/yyyy', new Date()),
       description: `Description: ${data.description}\nFirst Reading: ${data.firstReading}\nPsalm: ${data.psalm}\nSecond Reading: ${data.secondReading}\nGospel: ${data.gospel}`,
-      summary: data.description,
+      summary,
     });
   });
 
