@@ -11,6 +11,7 @@ import '@formatjs/intl-locale/polyfill';
 import '@formatjs/intl-displaynames/polyfill';
 import '@formatjs/intl-displaynames/locale-data/en';
 import '@formatjs/intl-displaynames/locale-data/vi';
+import { fallbackLng, supportedLngs } from '@/lib/utils/constants';
 
 (async () => {
   await i18n
@@ -19,8 +20,8 @@ import '@formatjs/intl-displaynames/locale-data/vi';
     .init<ChainedBackendOptions>({
       // NOTE: Do not set because language detector won't work
       // lng: defaultLang,
-      supportedLngs: ['en', 'vi'],
-      fallbackLng: ['en', 'vi'],
+      supportedLngs,
+      fallbackLng,
       debug: true,
       ns: ['translation'],
       defaultNS: 'translation',

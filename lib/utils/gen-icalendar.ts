@@ -1,6 +1,6 @@
-import { parse } from 'date-fns';
+import { addSeconds, parse } from 'date-fns';
 import ical from 'ical-generator';
-import { generateLiturgicalCalendar } from '@/lib/gen-liturgical-calendar';
+import { generateLiturgicalCalendar } from '@/lib/utils/gen-liturgical-calendar';
 
 const genICalendar = async (year: number) => {
   const liturgical = await generateLiturgicalCalendar(year);
@@ -13,8 +13,8 @@ const genICalendar = async (year: number) => {
       product: 'v-bible',
       language: 'en',
     },
-    source: 'https://github.com/v-bible/liturgical-ical',
-    url: 'https://github.com/v-bible/liturgical-ical',
+    source: 'https://github.com/v-bible/liturgical-calendar-generator',
+    url: 'https://github.com/v-bible/liturgical-calendar-generator',
   });
 
   liturgical.forEach((data) => {
@@ -22,8 +22,9 @@ const genICalendar = async (year: number) => {
 
     calendar.createEvent({
       allDay: true,
-      start: parse(data.date, 'dd/MM/yyyy', new Date()),
-      end: parse(data.date, 'dd/MM/yyyy', new Date()),
+      // NOTE: Add 1 second to avoid all-day event being on the previous day
+      start: addSeconds(parse(data.date, 'dd/MM/yyyy', new Date()), 1),
+      end: addSeconds(parse(data.date, 'dd/MM/yyyy', new Date()), 1),
       description: `Description: ${data.description}\nFirst Reading: ${data.firstReading}\nPsalm: ${data.psalm}\nSecond Reading: ${data.secondReading}\nGospel: ${data.gospel}`,
       summary,
     });

@@ -1,5 +1,5 @@
 import { mkdir, writeFileSync } from 'node:fs';
-import { genICalendar } from '@/lib/gen-icalendar';
+import { genICalendar } from '@/lib/utils/gen-icalendar';
 
 mkdir('./dist', { recursive: true }, (err) => {
   if (err) {
