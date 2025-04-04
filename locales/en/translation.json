@@ -32,8 +32,6 @@
   "periodOfDay_day": "day",
   "periodOfDay_night": "night",
   "periodOfDay_dawn": "dawn",
-  "weekDayWeekOrder": "$t(weekday, { \"context\": \"{{weekDay}}\" }) of $t(weekOrder, { \"count\": {{weekOrder}}, \"ordinal\": true })",
-  "weekDayWeekOrderWithContext": "$t(weekday, { \"context\": \"{{weekDay}}\" }) of $t(weekOrder, { \"context\": \"{{weekOrder}}\" })",
-  "description": "$t(weekDayWeekOrder, {\"weekDay\": \"{{weekDay}}\", \"weekOrder\": \"{{weekOrder}}\" }) - $t(season, { \"context\": \"{{season}}\" }) ($t(massType, { \"context\": \"{{massType}}\" })) ($t(periodOfDay, { \"context\": \"{{periodOfDay}}\" }))",
-  "descriptionWeekOrderWithContext": "$t(weekDayWeekOrderWithContext, {\"weekDay\": \"{{weekDay}}\", \"weekOrder\": \"{{weekOrder}}\" }) - $t(season, { \"context\": \"{{season}}\" }) ($t(massType, { \"context\": \"{{massType}}\" })) ($t(periodOfDay, { \"context\": \"{{periodOfDay}}\" })"
+  "weekDayWeekOrder": "{{tWeekDay, titlecase}} of {{tWeekOrder, titlecase}}",
+  "description": "{{tWeekDayWeekOrder}} - {{tSeason, titlecase}} ({{tMassType, titlecase}}) ({{tPeriodOfDay}})"
 }
