@@ -45,6 +45,8 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
+- [About the Project](#star2-about-the-project)
+  - [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   - [Prerequisites](#bangbang-prerequisites)
   - [Run Locally](#running-run-locally)
@@ -58,6 +60,31 @@
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
+
+<!-- About the Project -->
+
+## :star2: About the Project
+
+<!-- Env Variables -->
+
+### :key: Environment Variables
+
+To run this project, you will need to add the following environment variables to
+your `.env` file:
+
+- **App configs:**
+
+  `LITURGICAL_DATA_PATH`: Path to liturgical data. Default: `https://raw.githubusercontent.com/v-bible/liturgical-calendar-generator/refs/heads/main/liturgical`.
+
+E.g:
+
+```
+# .env
+LITURGICAL_DATA_PATH="https://raw.githubusercontent.com/v-bible/liturgical-calendar-generator/refs/heads/main/liturgical"
+```
+
+You can also check out the file `.env.example` to see all required environment
+variables.
 
 <!-- Getting Started -->
 
