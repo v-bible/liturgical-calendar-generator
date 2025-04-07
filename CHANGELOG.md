@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/v-bible/liturgical-calendar-generator/compare/v1.1.0...v1.1.1) (2025-04-07)
+
+
+### Bug Fixes
+
+* **lib:** load data from env ([d02a8f1](https://github.com/v-bible/liturgical-calendar-generator/commit/d02a8f19ff9c9b1cd557335b94fd54f5fa0b05c8))
+* **lib:** load data from env ([6041ee3](https://github.com/v-bible/liturgical-calendar-generator/commit/6041ee3f6be4331d2ebf36e0578255178e2754e6))
+
 ## [1.1.0](https://github.com/v-bible/liturgical-calendar-generator/compare/v1.0.0...v1.1.0) (2025-04-05)
 
 
