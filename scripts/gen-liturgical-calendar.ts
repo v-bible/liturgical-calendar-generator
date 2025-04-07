@@ -10,7 +10,7 @@ mkdir('./dist', { recursive: true }, (err) => {
 (async () => {
   for (let i = 2020; i < 2026; i += 1) {
     // eslint-disable-next-line no-await-in-loop
-    const data = await generateLiturgicalCalendar(i, { locale: 'vi' });
+    const data = await generateLiturgicalCalendar(i);
 
     writeFileSync(`./dist/calendar-${i}.json`, JSON.stringify(data, null, 2));
   }

@@ -23,9 +23,11 @@ import {
 } from 'date-fns';
 import i18n from '@/i18next.config';
 import { fallbackLng } from '@/lib/utils/constants';
+import 'dotenv/config';
 
 const liturgicalDataPath =
-  'https://raw.githubusercontent.com/v-bible/liturgical-calendar/refs/heads/main/liturgical';
+  process.env.LITURGICAL_DATA_PATH ||
+  'https://raw.githubusercontent.com/v-bible/liturgical-calendar-generator/refs/heads/main/liturgical';
 
 const defaultLng = fallbackLng[0] as string;
 
