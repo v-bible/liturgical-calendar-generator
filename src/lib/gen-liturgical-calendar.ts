@@ -1,3 +1,5 @@
+import { readFile } from 'fs/promises';
+import { join } from 'path';
 import {
   addDays,
   compareAsc,
@@ -21,15 +23,15 @@ import {
   subDays,
   subWeeks,
 } from 'date-fns';
-import i18n from '@/i18next.config';
-import { fallbackLng } from '@/lib/utils/constants';
+import i18n from '@/../i18next.config';
+import { BASE_LITURGICAL_DATA_PATH, DEFAULT_LOCALE } from '@/constants';
+import {
+  type CalendarEntry,
+  type CalendarEntryData,
+  type OptionsInput,
+  OptionsSchema,
+} from '@/lib/schema';
 import 'dotenv/config';
-
-const liturgicalDataPath =
-  process.env.LITURGICAL_DATA_PATH ||
-  'https://raw.githubusercontent.com/v-bible/liturgical-calendar-generator/refs/heads/main/liturgical';
-
-const defaultLng = fallbackLng[0] as string;
 
 // Ref: https://stackoverflow.com/a/1284335/12512981
 const easterDate = (y: number) => {
@@ -53,53 +55,6 @@ const easterDate = (y: number) => {
   return new Date(y, m - 1, d);
 };
 
-export type ExtraCalendarEntry = {
-  secondPsalm: string | string[];
-  thirdReading: string | string[];
-  thirdPsalm: string | string[];
-  fourthReading: string | string[];
-  fourthPsalm: string | string[];
-  fifthReading: string | string[];
-  fifthPsalm: string | string[];
-  sixthReading: string | string[];
-  sixthPsalm: string | string[];
-  seventhReading: string | string[];
-  seventhPsalm: string | string[];
-  eighthReading: string | string[];
-  eighthPsalm: string | string[];
-};
-
-export type CalendarEntry = {
-  firstReading: string | string[];
-  psalm: string | string[];
-  secondReading: string | string[];
-  gospel: string | string[];
-  yearCycle: string;
-  yearNumber: string;
-  season: string;
-  massType: string | string[];
-  weekdayType: string;
-  weekOrder: string;
-  periodOfDay: string;
-  slug: string;
-  description: string;
-} & Partial<ExtraCalendarEntry>;
-
-export type CalendarEntryData = CalendarEntry & {
-  weekday: string;
-  date: string;
-};
-
-export type Options = {
-  isEpiphanyOn6thJan?: boolean;
-  isAscensionOfTheLordOn40th?: boolean;
-  locale?: string;
-  additionalCalendar?: (
-    year: number,
-    options?: Partial<Options>,
-  ) => CalendarEntryData[];
-};
-
 const YEAR_CYCLE_MAP: Record<string, string> = {
   '0': 'C',
   '1': 'A',
@@ -116,14 +71,36 @@ const WEEKDAY_MAP: Record<string, string> = {
   '6': 'saturday',
 };
 
-const getLiturgical = async (url: string) => {
-  const req = await fetch(url);
-  const data = (await req.json()) as CalendarEntry[];
+type BaseGenerateOptions = {
+  locale?: string;
+  liturgicalDataPath?: string;
+};
 
+const isRemotePath = (path: string) => {
+  return path.startsWith('http://') || path.startsWith('https://');
+};
+
+const getLiturgical = async (path: string) => {
+  if (isRemotePath(path)) {
+    const req = await fetch(path);
+    const data = (await req.json()) as CalendarEntry[];
+    return data;
+  }
+
+  // Local file path - resolve relative to current working directory
+  const absolutePath = join(process.cwd(), path);
+  const fileContent = await readFile(absolutePath, 'utf-8');
+  const data = JSON.parse(fileContent) as CalendarEntry[];
   return data;
 };
 
-const generateAdvent = async (year: number, locale: string = defaultLng) => {
+const generateAdvent = async (
+  year: number,
+  {
+    locale = DEFAULT_LOCALE,
+    liturgicalDataPath = BASE_LITURGICAL_DATA_PATH,
+  }: BaseGenerateOptions,
+) => {
   const adventSundayData = await getLiturgical(
     `${liturgicalDataPath}/${locale}/sunday/1_advent.json`,
   );
@@ -214,8 +191,13 @@ const generateAdvent = async (year: number, locale: string = defaultLng) => {
 
 const generateChristmas = async (
   year: number,
-  isEpiphanyOn6thJan: boolean,
-  locale: string = defaultLng,
+  {
+    isEpiphanyOn6thJan,
+    locale = DEFAULT_LOCALE,
+    liturgicalDataPath = BASE_LITURGICAL_DATA_PATH,
+  }: BaseGenerateOptions & {
+    isEpiphanyOn6thJan: boolean;
+  },
 ) => {
   const christmasSundayData = await getLiturgical(
     `${liturgicalDataPath}/${locale}/sunday/2_christmas.json`,
@@ -424,8 +406,13 @@ const generateChristmas = async (
 
 const generateOT = async (
   year: number,
-  isEpiphanyOn6thJan: boolean,
-  locale: string = defaultLng,
+  {
+    isEpiphanyOn6thJan,
+    locale = DEFAULT_LOCALE,
+    liturgicalDataPath = BASE_LITURGICAL_DATA_PATH,
+  }: BaseGenerateOptions & {
+    isEpiphanyOn6thJan: boolean;
+  },
 ) => {
   const OTSundayData = await getLiturgical(
     `${liturgicalDataPath}/${locale}/sunday/5_ot.json`,
@@ -586,7 +573,13 @@ const generateOT = async (
   return calendar;
 };
 
-const generateLent = async (year: number, locale: string = defaultLng) => {
+const generateLent = async (
+  year: number,
+  {
+    locale = DEFAULT_LOCALE,
+    liturgicalDataPath = BASE_LITURGICAL_DATA_PATH,
+  }: BaseGenerateOptions,
+) => {
   const lentSundayData = await getLiturgical(
     `${liturgicalDataPath}/${locale}/sunday/3_lent.json`,
   );
@@ -746,8 +739,13 @@ const generateLent = async (year: number, locale: string = defaultLng) => {
 
 const generateEaster = async (
   year: number,
-  isAscensionOfTheLordOn40th: boolean,
-  locale: string = defaultLng,
+  {
+    isAscensionOfTheLordOn40th,
+    locale = DEFAULT_LOCALE,
+    liturgicalDataPath = BASE_LITURGICAL_DATA_PATH,
+  }: BaseGenerateOptions & {
+    isAscensionOfTheLordOn40th: boolean;
+  },
 ) => {
   const triduumSundayData = await getLiturgical(
     `${liturgicalDataPath}/${locale}/sunday/4_triduum.json`,
@@ -958,7 +956,10 @@ const generateEaster = async (
 
 const generateCelebration = async (
   year: number,
-  locale: string = defaultLng,
+  {
+    locale = DEFAULT_LOCALE,
+    liturgicalDataPath = BASE_LITURGICAL_DATA_PATH,
+  }: BaseGenerateOptions,
 ) => {
   const saintData = await getLiturgical(
     `${liturgicalDataPath}/${locale}/celebrations/2_saint.json`,
@@ -993,7 +994,10 @@ const generateCelebration = async (
 
 const generateAnnunciationOfTheLord = async (
   year: number,
-  locale: string = defaultLng,
+  {
+    locale = DEFAULT_LOCALE,
+    liturgicalDataPath = BASE_LITURGICAL_DATA_PATH,
+  }: BaseGenerateOptions,
 ) => {
   const movableCelebration = await getLiturgical(
     `${liturgicalDataPath}/${locale}/celebrations/3_movable_celebrations.json`,
@@ -1038,7 +1042,10 @@ const generateAnnunciationOfTheLord = async (
 
 const generatePostPentecostSolemnity = async (
   year: number,
-  locale: string = defaultLng,
+  {
+    locale = DEFAULT_LOCALE,
+    liturgicalDataPath = BASE_LITURGICAL_DATA_PATH,
+  }: BaseGenerateOptions,
 ) => {
   const movableCelebration = await getLiturgical(
     `${liturgicalDataPath}/${locale}/celebrations/3_movable_celebrations.json`,
@@ -1099,25 +1106,49 @@ const generatePostPentecostSolemnity = async (
   return calendar;
 };
 
-const generateLiturgicalCalendar = async (year: number, options?: Options) => {
+const generateLiturgicalCalendar = async (
+  year: number,
+  options?: OptionsInput,
+) => {
+  const parsedOptions = OptionsSchema.parse(options || {});
+
   const {
-    isEpiphanyOn6thJan = false,
-    isAscensionOfTheLordOn40th = false,
-    locale = defaultLng,
+    isEpiphanyOn6thJan,
+    isAscensionOfTheLordOn40th,
+    locale,
+    liturgicalDataPath,
     additionalCalendar,
-  } = options || {};
+  } = parsedOptions;
 
   await i18n.changeLanguage(locale);
 
   const calendar: CalendarEntryData[] = [
-    ...(await generateAdvent(year, locale)),
-    ...(await generateChristmas(year, isEpiphanyOn6thJan, locale)),
-    ...(await generateOT(year, isEpiphanyOn6thJan, locale)),
-    ...(await generateLent(year, locale)),
-    ...(await generateEaster(year, isAscensionOfTheLordOn40th, locale)),
-    ...(await generateCelebration(year, locale)),
-    ...(await generateAnnunciationOfTheLord(year, locale)),
-    ...(await generatePostPentecostSolemnity(year, locale)),
+    ...(await generateAdvent(year, { locale, liturgicalDataPath })),
+    ...(await generateChristmas(year, {
+      isEpiphanyOn6thJan,
+      locale,
+      liturgicalDataPath,
+    })),
+    ...(await generateOT(year, {
+      isEpiphanyOn6thJan,
+      locale,
+      liturgicalDataPath,
+    })),
+    ...(await generateLent(year, { locale, liturgicalDataPath })),
+    ...(await generateEaster(year, {
+      isAscensionOfTheLordOn40th,
+      locale,
+      liturgicalDataPath,
+    })),
+    ...(await generateCelebration(year, { locale, liturgicalDataPath })),
+    ...(await generateAnnunciationOfTheLord(year, {
+      locale,
+      liturgicalDataPath,
+    })),
+    ...(await generatePostPentecostSolemnity(year, {
+      locale,
+      liturgicalDataPath,
+    })),
     additionalCalendar ? additionalCalendar(year, options) : [],
   ]
     .flat()

@@ -1,9 +1,16 @@
 {
   "compilerOptions": {
     /* If transpiling with TypeScript: */
-    "composite": true,
+    "allowJs": true,
+    "checkJs": true,
     "module": "NodeNext",
-    "moduleResolution": "NodeNext"
+    "moduleResolution": "NodeNext",
+    "noEmit": true
   },
-  "include": [".eslintrc.cjs", "tsup.config.ts"]
+  "include": [
+    "eslint.config.js",
+    "tsup.config.ts",
+    ".lintstagedrc.js",
+    "vitest.config.ts"
+  ]
 }

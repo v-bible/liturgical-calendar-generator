@@ -45,46 +45,22 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
-  - [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   - [Prerequisites](#bangbang-prerequisites)
   - [Run Locally](#running-run-locally)
 - [Usage](#eyes-usage)
+  - [Basic Usage](#basic-usage)
+  - [CLI Usage](#cli-usage)
   - [Utils](#utils)
     - [Generate Liturgical Calendar](#generate-liturgical-calendar)
-  - [Scripts](#scripts)
+    - [Generate iCalendar](#generate-icalendar)
+  - [Translation](#translation)
 - [Roadmap](#compass-roadmap)
 - [Contributing](#wave-contributing)
   - [Code of Conduct](#scroll-code-of-conduct)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
-
-<!-- About the Project -->
-
-## :star2: About the Project
-
-<!-- Env Variables -->
-
-### :key: Environment Variables
-
-To run this project, you will need to add the following environment variables to
-your `.env` file:
-
-- **App configs:**
-
-  `LITURGICAL_DATA_PATH`: Path to liturgical data. Default: `https://raw.githubusercontent.com/v-bible/liturgical-calendar-generator/refs/heads/main/liturgical`.
-
-E.g:
-
-```
-# .env
-LITURGICAL_DATA_PATH="https://raw.githubusercontent.com/v-bible/liturgical-calendar-generator/refs/heads/main/liturgical"
-```
-
-You can also check out the file `.env.example` to see all required environment
-variables.
 
 <!-- Getting Started -->
 
@@ -126,11 +102,50 @@ pnpm install
 
 ## :eyes: Usage
 
+### Basic Usage
+
+```ts
+import { generateLiturgicalCalendar } from 'liturgical-calendar-generator';
+
+const options = {
+  year: 2024,
+  locale: 'en',
+  isEpiphanyOn6thJan: true,
+  isAscensionOfTheLordOn40th: false,
+};
+const calendar = await generateLiturgicalCalendar(options);
+console.log(calendar);
+```
+
+### CLI Usage
+
+```
+USAGE
+  liturgical-calendar-generator [--outDir value] [--format json|ics] [--locale en|vi] [--isEpiphanyOn6thJan] [--isAscensionOfTheLordOn40th] [--fetchDataFromRemote] [--remoteDataPath value] [--addionalCalendarFile value]... <arg1>
+  liturgical-calendar-generator --help
+  liturgical-calendar-generator --version
+
+A library to generate Catholic liturgical calendars
+
+FLAGS
+     [--outDir]                                                     Output directory. Default to "./output"
+     [--format]                                                     Output format. Default to "json"                                                                         [json|ics]
+     [--locale]                                                     Locale for the generated calendar. Default to "en"                                                       [en|vi]
+     [--isEpiphanyOn6thJan/--noIsEpiphanyOn6thJan]                  Set Epiphany to 6th January or Sunday after 1st January. Default to "false"
+     [--isAscensionOfTheLordOn40th/--noIsAscensionOfTheLordOn40th]  Set Ascension of the Lord to 40th day after Easter or Sunday after 40 days of Easter. Default to "false"
+     [--fetchDataFromRemote/--noFetchDataFromRemote]                Fetch liturgical data from remote repository. Default to "false"
+     [--remoteDataPath]                                             Custom remote path to fetch liturgical data from. Default to official repository URL
+     [--addionalCalendarFile]...                                    Path to additional calendar JSON file(s) to include
+  -h  --help                                                        Print help information and exit
+  -v  --version                                                     Print version information and exit
+
+ARGUMENTS
+  arg1  Year of the liturgical calendar to generate
+```
+
 ### Utils
 
 #### Generate Liturgical Calendar
-
-##### Basics
 
 The liturgical data is collected from [The Lectionary for Mass (1998/2002 USA
 Edition)](https://catholic-resources.org/Lectionary/1998USL.htm), which is
@@ -140,14 +155,14 @@ compiled by Felix Just, S.J., Ph.D. The data is stored in
 Some considerations when generating the liturgical calendar:
 
 - **Currently, I don't have "The Lectionary for Mass" book to verify the data. If
-  you find any mistakes, please report them to me**.
+  you find any mistakes, please report them to me**, by opening an issue in the
+  [GitHub repository](https://github.com/v-bible/liturgical-calendar-generator/issues).
 
 - The verse for the liturgical may varies from different languages and
   translations. Compare the liturgical for the same day **04/03/2024** (Monday of the Third Week of Lent) from
   [vaticanews.va](https://vaticannews.va/):
   in French, Español,
   Vietnamese, and English:
-
   - [French](https://www.vaticannews.va/fr/evangile-du-jour.html):
     - First Reading: `2 R 5,1-15a`.
     - Gospel: `Lc 4,24-30`.
@@ -160,7 +175,7 @@ Some considerations when generating the liturgical calendar:
   - [English](https://www.vaticannews.va/en/word-of-the-day.html):
     - First Reading: `2 Kgs 5:1-15ab`.
     - Gospel: `Lk 4:24-30`.
-  - [v-bible/static](https://github.com/v-bible/static):
+  - [v-bible/catholic-resources](https://huggingface.co/datasets/v-bible/catholic-resources):
     - First Reading: `2 Kgs 5:1-15a`.
     - Gospel: `Luke 4:24-30`.
 
@@ -168,14 +183,23 @@ Some considerations when generating the liturgical calendar:
   celebrations, feasts or solemnities may vary from different countries).
 
 - The liturgical calendar also changes based on options:
-
   - Is Epiphany on 6th January or Sunday after 1st January?
   - Is Ascension on Thursday or Sunday after 40 days of Easter?
   - Special celebrations for each country.
 
 - User can also provide user-defined data for the liturgical calendar.
 
-##### Translation
+#### Generate iCalendar
+
+Current we only update calendar events with these fields:
+
+- `summary`: Title of the event.
+- `description`: Description of the event.
+- `allDay`: Whether the event is all day or not.
+- `start`: Start date of the event.
+- `end`: End date of the event.
+
+### Translation
 
 For liturgical description, we use [`i18next`](https://www.i18next.com/) for
 translation.
@@ -189,37 +213,11 @@ The locale files are stored in the `locales` directory. The default locale is
 
 To add a new locale, you need to create a new file in the `locales` directory.
 
-#### Generate iCalendar
-
-Current we only update calendar events with these fields:
-
-- `summary`: Title of the event.
-- `description`: Description of the event.
-- `allDay`: Whether the event is all day or not.
-- `start`: Start date of the event.
-- `end`: End date of the event.
-
-## Scripts
-
-- `scripts/gen-liturgical-calendar.ts`: Generate liturgical calendar. Files are
-  stored in `dist` folder.
-
-  ```bash
-  npx tsx scripts/gen-liturgical-calendar.ts
-  ```
-
-- `scripts/gen-icalendar.ts`: Generate iCalendar file from liturgical calendar.
-  Files are stored in `dist` folder.
-
-  ```bash
-  npx tsx scripts/gen-icalendar.ts
-  ```
-
 <!-- Roadmap -->
 
 ## :compass: Roadmap
 
-- [ ] Add tests.
+- [x] Add tests.
 
 <!-- Contributing -->
 
