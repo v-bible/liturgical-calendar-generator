@@ -7,5 +7,10 @@
     "moduleResolution": "NodeNext",
     "noEmit": true
   },
-  "include": ["eslint.config.js", "tsup.config.ts", ".lintstagedrc.js"]
+  "include": [
+    "eslint.config.js",
+    "tsup.config.ts",
+    ".lintstagedrc.js",
+    "vitest.config.ts"
+  ]
 }

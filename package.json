@@ -36,6 +36,10 @@
     "prepare": "husky",
     "lint": "tsc",
     "build": "tsup",
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:run": "vitest run",
+    "test:coverage": "vitest run --coverage",
     "check-exports": "attw --pack . --ignore-rules=cjs-resolves-to-esm",
     "prepublish": "pnpm run build && pnpm run check-exports && pnpm run lint",
     "postinstall": "npx @stricli/auto-complete@latest install liturgical-calendar-generator --bash __liturgical-calendar-generator_bash_complete"
@@ -63,6 +67,8 @@
     "@types/node": "24.10.4",
     "@typescript-eslint/eslint-plugin": "8.51.0",
     "@typescript-eslint/parser": "8.51.0",
+    "@vitest/eslint-plugin": "1.6.4",
+    "@vitest/ui": "4.0.16",
     "eslint": "9.39.2",
     "eslint-config-prettier": "10.1.8",
     "eslint-import-resolver-typescript": "4.4.4",
@@ -73,6 +79,7 @@
     "lint-staged": "16.2.7",
     "prettier": "3.7.4",
     "tsup": "8.5.1",
-    "typescript": "5.9.3"
+    "typescript": "5.9.3",
+    "vitest": "4.0.16"
   }
 }

@@ -3,6 +3,7 @@ import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 import tseslint from '@typescript-eslint/eslint-plugin';
 import tsParser from '@typescript-eslint/parser';
+import vitest from '@vitest/eslint-plugin';
 import { defineConfig, globalIgnores } from 'eslint/config';
 import importPlugin from 'eslint-plugin-import';
 import prettier from 'eslint-plugin-prettier';
@@ -87,6 +88,44 @@ export default defineConfig([
         },
       ],
       'spaced-comment': ['warn', 'always', { markers: ['/'] }],
+    },
+    settings: {
+      'import/resolver': { typescript: {} },
+    },
+  },
+  {
+    files: ['test/**/*.{ts,tsx}'],
+    languageOptions: {
+      ecmaVersion: 'latest',
+      sourceType: 'module',
+      globals: {
+        ...globals.node,
+        ...globals.es2021,
+      },
+      parser: tsParser,
+      parserOptions: {
+        tsconfigRootDir: __dirname,
+        project: ['./tsconfig.test.json'],
+      },
+    },
+    plugins: {
+      '@typescript-eslint': tseslint,
+      vitest,
+      prettier,
+      import: importPlugin,
+    },
+    rules: {
+      ...tseslint.configs.recommended.rules,
+      ...vitest.configs.recommended.rules,
+      ...prettier.configs.recommended.rules,
+      'import/no-extraneous-dependencies': [
+        'warn',
+        {
+          devDependencies: true,
+        },
+      ],
+      'import/no-unresolved': 'off',
+      '@typescript-eslint/no-explicit-any': 'off',
     },
     settings: {
       'import/resolver': { typescript: {} },
