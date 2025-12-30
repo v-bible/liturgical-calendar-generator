@@ -5,13 +5,7 @@ import i18n from 'i18next';
 import Backend, { type ChainedBackendOptions } from 'i18next-chained-backend';
 import FileSystemBackend from 'i18next-fs-backend';
 import intervalPlural from 'i18next-intervalplural-postprocessor';
-
-import '@formatjs/intl-getcanonicallocales/polyfill';
-import '@formatjs/intl-locale/polyfill';
-import '@formatjs/intl-displaynames/polyfill';
-import '@formatjs/intl-displaynames/locale-data/en';
-import '@formatjs/intl-displaynames/locale-data/vi';
-import { fallbackLng, supportedLngs } from '@/lib/utils/constants';
+import { FALLBACK_LNG, SUPPORT_LNG } from '@/constants';
 
 (async () => {
   await i18n
@@ -20,9 +14,9 @@ import { fallbackLng, supportedLngs } from '@/lib/utils/constants';
     .init<ChainedBackendOptions>({
       // NOTE: Do not set because language detector won't work
       // lng: defaultLang,
-      supportedLngs,
-      fallbackLng,
-      debug: true,
+      supportedLngs: SUPPORT_LNG,
+      fallbackLng: FALLBACK_LNG,
+      debug: process.env.NODE_ENV === 'development',
       ns: ['translation'],
       defaultNS: 'translation',
 

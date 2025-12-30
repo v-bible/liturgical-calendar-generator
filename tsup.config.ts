@@ -8,7 +8,9 @@ export default defineConfig({
     'bash-complete': 'src/bin/bash-complete.ts',
   },
   format: ['esm', 'cjs'],
-  dts: true,
+  dts: {
+    resolve: true,
+  },
   outDir: 'dist',
   splitting: false,
   sourcemap: true,

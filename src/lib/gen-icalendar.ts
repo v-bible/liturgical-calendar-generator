@@ -1,9 +1,10 @@
 import { addSeconds, parse } from 'date-fns';
 import ical from 'ical-generator';
-import { generateLiturgicalCalendar } from '@/lib/utils/gen-liturgical-calendar';
+import { generateLiturgicalCalendar } from '@/lib/gen-liturgical-calendar';
+import { type OptionsInput } from '@/lib/schema';
 
-const genICalendar = async (year: number) => {
-  const liturgical = await generateLiturgicalCalendar(year);
+const genICalendar = async (year: number, options?: OptionsInput) => {
+  const liturgical = await generateLiturgicalCalendar(year, options);
 
   const calendar = ical({
     name: 'Liturgical Calendar',
