@@ -1,4 +1,12 @@
 {
+  "labels": {
+    "description": "Mô tả",
+    "firstReading": "Bài đọc thứ nhất",
+    "secondReading": "Bài đọc thứ hai",
+    "psalm": "Thánh vịnh",
+    "gospelAcclamation": "Câu chào Phúc Âm",
+    "gospel": "Phúc Âm"
+  },
   "weekday_monday": "thứ hai",
   "weekday_tuesday": "thứ ba",
   "weekday_wednesday": "thứ tư",

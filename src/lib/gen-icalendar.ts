@@ -1,5 +1,6 @@
 import { addSeconds, parse } from 'date-fns';
 import ical from 'ical-generator';
+import i18n from '@/../i18next.config';
 import { generateLiturgicalCalendar } from '@/lib/gen-liturgical-calendar';
 import { type OptionsInput } from '@/lib/schema';
 
@@ -26,7 +27,7 @@ const genICalendar = async (year: number, options?: OptionsInput) => {
       // NOTE: Add 1 second to avoid all-day event being on the previous day
       start: addSeconds(parse(data.date, 'dd/MM/yyyy', new Date()), 1),
       end: addSeconds(parse(data.date, 'dd/MM/yyyy', new Date()), 1),
-      description: `Description: ${data.description}\nFirst Reading: ${data.firstReading}\nPsalm: ${data.psalm}\nSecond Reading: ${data.secondReading}\nGospel: ${data.gospel}`,
+      description: `${i18n.t('labels.description')}: ${data.description}\n${i18n.t('labels.firstReading')}: ${data.firstReading}\n${i18n.t('labels.psalm')}: ${data.psalm}\n${i18n.t('labels.secondReading')}: ${data.secondReading}\n${i18n.t('labels.gospel')}: ${data.gospel}`,
       summary,
     });
   });

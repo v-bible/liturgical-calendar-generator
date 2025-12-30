@@ -1,4 +1,12 @@
 {
+  "labels": {
+    "description": "Description",
+    "firstReading": "First reading",
+    "secondReading": "Second reading",
+    "psalm": "Psalm",
+    "gospelAcclamation": "Gospel acclamation",
+    "gospel": "Gospel"
+  },
   "weekday_monday": "monday",
   "weekday_tuesday": "tuesday",
   "weekday_wednesday": "wednesday",
