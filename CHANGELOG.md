@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/v-bible/liturgical-calendar-generator/compare/v1.1.1...v1.2.0) (2025-12-30)
+
+
+### Features
+
+* support cli ([6ee7a8b](https://github.com/v-bible/liturgical-calendar-generator/commit/6ee7a8b73f6bc30f7ee6ad3c5c49de0dade7b918))
+* support cli ([23b7e55](https://github.com/v-bible/liturgical-calendar-generator/commit/23b7e552f025fcbaaf81bf5f288014b18538af94))
+
 ## [1.1.1](https://github.com/v-bible/liturgical-calendar-generator/compare/v1.1.0...v1.1.1) (2025-04-07)
 
 
