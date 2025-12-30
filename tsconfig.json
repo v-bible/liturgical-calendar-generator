@@ -8,15 +8,14 @@
     "resolveJsonModule": true,
     "moduleDetection": "force",
     "isolatedModules": true,
-    "verbatimModuleSyntax": true,
 
     /* Strictness */
     "strict": true,
     "noUncheckedIndexedAccess": true,
     "noImplicitOverride": true,
 
-    /* If NOT transpiling with TypeScript: */
-    "module": "preserve",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
     "noEmit": true,
 
     /* AND if you're building for a library: */
@@ -28,13 +27,9 @@
     /* Path Aliases */
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./src/*"]
     }
   },
-  "include": ["lib", "scripts"],
-  "references": [
-    {
-      "path": "./tsconfig.node.json"
-    }
-  ]
+  "include": ["src"],
+  "exclude": ["dist", "node_modules"]
 }
