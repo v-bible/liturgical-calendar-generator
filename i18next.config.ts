@@ -47,7 +47,11 @@ import { FALLBACK_LNG, SUPPORT_LNG } from '@/constants';
   });
 
   i18n.services.formatter!.add('titlecase', (value) => {
-    return value.replace(/\b\w/g, (c: string) => c.toUpperCase());
+    return value
+      .toLowerCase()
+      .split(' ')
+      .map((word: string) => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ');
   });
 })();
 

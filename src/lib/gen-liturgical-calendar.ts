@@ -1160,23 +1160,45 @@ const generateLiturgicalCalendar = async (
     )
     .map((data) => {
       if (data.description === '') {
-        const weekOrder = Number.isInteger(parseInt(data.weekOrder, 10))
-          ? {
-              count: +data.weekOrder,
-              ordinal: true,
-            }
-          : {
-              context: data.weekOrder,
-            };
+        const weekOrder = data.weekOrder
+          ? isFinite(+data.weekOrder)
+            ? i18n.t('weekOrder', { count: +data.weekOrder, ordinal: true })
+            : i18n.t('weekOrder', { context: data.weekOrder })
+          : null;
+
+        const massType = Array.isArray(data.massType)
+          ? data.massType
+              .map((mt) => i18n.t('massType', { context: mt }))
+              .join(', ')
+          : i18n.t('massType', { context: data.massType });
+
+        const weekDayWeekOrder = weekOrder
+          ? i18n.t('weekDayWeekOrder', {
+              tWeekDay: i18n.t('weekday', {
+                context: data.weekday,
+              }),
+              tWeekOrder: weekOrder,
+              count: 1,
+            })
+          : i18n.t('weeDayWeekOrder', {
+              tWeekDay: i18n.t('weekday', {
+                context: data.weekday,
+              }),
+              count: 0,
+            });
+
+        const season = data.season
+          ? i18n.t('season', { context: data.season })
+          : null;
 
         data.description = i18n.t('description', {
-          tWeekDayWeekOrder: i18n.t('weekDayWeekOrder', {
-            tWeekDay: i18n.t('weekday', { context: data.weekday }),
-            tWeekOrder: i18n.t('weekOrder', weekOrder),
+          tWeekDayWeekOrder: weekDayWeekOrder,
+          tSeason: season,
+          tMassType: massType,
+          tPeriodOfDay: i18n.t('periodOfDay', {
+            context: data.periodOfDay,
           }),
-          tSeason: i18n.t('season', { context: data.season }),
-          tMassType: i18n.t('massType', { context: data.massType }),
-          tPeriodOfDay: i18n.t('periodOfDay', { context: data.periodOfDay }),
+          context: season ? undefined : 'noSeason',
         });
       }
 
@@ -1187,6 +1209,7 @@ const generateLiturgicalCalendar = async (
 };
 
 export {
+  easterDate,
   generateAdvent,
   generateChristmas,
   generateOT,
