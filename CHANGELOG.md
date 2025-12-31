@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/v-bible/liturgical-calendar-generator/compare/v1.2.0...v1.2.1) (2025-12-31)
+
+
+### Bug Fixes
+
+* incorrect i18n format rules ([33d55e0](https://github.com/v-bible/liturgical-calendar-generator/commit/33d55e070fe4c66318414a9a23a0d31868b39be9))
+* update liturgical description ([33d55e0](https://github.com/v-bible/liturgical-calendar-generator/commit/33d55e070fe4c66318414a9a23a0d31868b39be9))
+
 ## [1.2.0](https://github.com/v-bible/liturgical-calendar-generator/compare/v1.1.1...v1.2.0) (2025-12-30)
 
 

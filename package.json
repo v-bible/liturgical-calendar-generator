@@ -1,6 +1,6 @@
 {
   "name": "@v-bible/liturgical-calendar-generator",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "v-bible",
   "description": "A library to generate Catholic liturgical calendars",
   "repository": {
