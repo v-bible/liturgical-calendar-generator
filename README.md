@@ -6,37 +6,6 @@
     A library to generate liturgical calendars
   </p>
 
-<!-- Badges -->
-<p>
-  <a href="https://github.com/v-bible/liturgical-calendar-generator/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/v-bible/liturgical-calendar-generator" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/v-bible/liturgical-calendar-generator" alt="last update" />
-  </a>
-  <a href="https://github.com/v-bible/liturgical-calendar-generator/network/members">
-    <img src="https://img.shields.io/github/forks/v-bible/liturgical-calendar-generator" alt="forks" />
-  </a>
-  <a href="https://github.com/v-bible/liturgical-calendar-generator/stargazers">
-    <img src="https://img.shields.io/github/stars/v-bible/liturgical-calendar-generator" alt="stars" />
-  </a>
-  <a href="https://github.com/v-bible/liturgical-calendar-generator/issues/">
-    <img src="https://img.shields.io/github/issues/v-bible/liturgical-calendar-generator" alt="open issues" />
-  </a>
-  <a href="https://github.com/v-bible/liturgical-calendar-generator/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/v-bible/liturgical-calendar-generator.svg" alt="license" />
-  </a>
-</p>
-
-<h4>
-    <a href="https://github.com/v-bible/liturgical-calendar-generator/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/v-bible/liturgical-calendar-generator">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/v-bible/liturgical-calendar-generator/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/v-bible/liturgical-calendar-generator/issues/">Request Feature</a>
-  </h4>
 </div>
 
 <br />
@@ -143,6 +112,57 @@ ARGUMENTS
   arg1  Year of the liturgical calendar to generate
 ```
 
+#### Examples
+
+**Output format**
+
+You can specify the output format of the generated liturgical calendar:
+
+`ics` format to import into calendar applications (Google Calendar, Outlook,
+etc.):
+
+```bash
+liturgical-calendar-generator 2024 --format ics
+```
+
+`json` format to use in your applications:
+
+```bash
+liturgical-calendar-generator 2024 --format json
+```
+
+**Change locale**
+
+You can specify the locale for the generated liturgical calendar:
+
+```bash
+liturgical-calendar-generator 2024 --locale vi
+```
+
+**Additional calendar files**
+
+You can provide multiple additional calendar JSON files to include user-defined
+data:
+
+```bash
+liturgical-calendar-generator 2024 --addionalCalendarFile ./my-calendar-1.json --addionalCalendarFile ./my-calendar-2.json
+```
+
+**Fetch data from remote repository**
+
+By default, the liturgical data is stored locally in the `liturgical` directory. You
+can also fetch the latest data from the remote repository for latest updates:
+
+```bash
+liturgical-calendar-generator 2024 --fetchDataFromRemote
+```
+
+**Custom remote data path**
+
+```bash
+liturgical-calendar-generator 2024 --fetchDataFromRemote --remoteDataPath https://my-custom-repo.com/liturgical-data/
+```
+
 ### Utils
 
 #### Generate Liturgical Calendar
@@ -163,16 +183,16 @@ Some considerations when generating the liturgical calendar:
   [vaticanews.va](https://vaticannews.va/):
   in French, Español,
   Vietnamese, and English:
-  - [French](https://www.vaticannews.va/fr/evangile-du-jour.html):
+  - [French](https://www.vaticannews.va/fr/evangile-du-jour/2024/03/04.html):
     - First Reading: `2 R 5,1-15a`.
     - Gospel: `Lc 4,24-30`.
-  - [Español](https://www.vaticannews.va/es/evangelio-de-hoy.html):
+  - [Español](https://www.vaticannews.va/es/evangelio-de-hoy/2024/03/04.html):
     - First Reading: `2 Reyes 5,1-15`.
     - Gospel: `Lc 4,24-30`.
-  - [Vietnamese](https://www.vaticannews.va/vi/loi-chua-hang-ngay.html):
+  - [Vietnamese](https://www.vaticannews.va/vi/loi-chua-hang-ngay/2024/03/04.html):
     - First Reading: `2 V 5,1-15a`.
-    - Gospel: `Lc 4,24-3`.
-  - [English](https://www.vaticannews.va/en/word-of-the-day.html):
+    - Gospel: `Lc 4,24-30`.
+  - [English](https://www.vaticannews.va/en/word-of-the-day/2024/03/04.html):
     - First Reading: `2 Kgs 5:1-15ab`.
     - Gospel: `Lk 4:24-30`.
   - [v-bible/catholic-resources](https://huggingface.co/datasets/v-bible/catholic-resources):
